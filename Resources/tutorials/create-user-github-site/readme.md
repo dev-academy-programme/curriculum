@@ -24,6 +24,7 @@ This will take you to the new repository form.
 1. Copy the URL of the new repo to the clipboard.
 
 ![Copy the repo URL](images/clone-repo.png)
+
 2. In the `~/workspace` folder in your terminal, run:
 
     git clone [paste the URL here with SHFT-CTRL-v]
