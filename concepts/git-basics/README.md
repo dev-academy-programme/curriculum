@@ -21,6 +21,6 @@ You are comfortable using the git command line tool to:
 ### [Try git](https://try.github.io) Level 1, challenges 1 - 9
 
 ## Further Study
-### [Intermediate Git](link.com)
+### [Git Branching](../git-branching)
 
 
