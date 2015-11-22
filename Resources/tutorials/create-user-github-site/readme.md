@@ -3,9 +3,7 @@ Publish a user site on GitHub
 
 ## Create the repository
 
-1. Create a [new website repository](https://github.com/new).
-
-This will take you to the new repository form.
+1. Create a [new website repository](https://github.com/new) (this will take you to the new repository form).
 
 2. Fill out the new repository form.
 
