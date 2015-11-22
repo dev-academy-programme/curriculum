@@ -31,7 +31,7 @@ git clone [paste the URL here with SHFT-CTRL-v]
 
 ## Publish a page
 
-* Navigate to the folder for the repo.
+* Navigate to the repo's folder.
 
 ```bash
 cd [username].github.io
