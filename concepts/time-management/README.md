@@ -1,4 +1,4 @@
-# Concept Title
+# Time Management
 
 ## Overview
 
@@ -10,7 +10,7 @@
 
 When you are comfortable with this concept you will these capabilities:
 
-* Capability
+* Can manage time appropriately
 
 ## Resources
 
