@@ -1,6 +1,10 @@
-#Concept Title
+#*Concept Title*
 
 ##Overview
+
+##Prerequisites 
+* [link-name](link.com)
+* [link-name](link.com)
 
 ##Capabilities
 When you are comfortable with this concept you will these capabilities:
@@ -9,11 +13,7 @@ When you are comfortable with this concept you will these capabilities:
 * [link-name](link.com)
 * [link-name](link.com)
 
-##Prerequisites 
-* [link-name](link.com)
-* [link-name](link.com)
-
-##Advanced Concepts
+##Further Study
 * [link-name](link.com)
 * [link-name](link.com)
 
