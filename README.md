@@ -1,11 +1,8 @@
 # Curriculum
 
-Welcome to Ensprial Dev Academy's curriculum repo.
+This repo is not intended to be navigated. All resources and concepts will be linked to via the weekly assigments. 
 
-Use the links to navigate:
-
-1. [Challenges](Challenges)
-2. [Concepts](Concepts)
-3. [Resources](Resources)
+1. [Concepts](Concepts)
+2. [Resources](Resources)
 
 
