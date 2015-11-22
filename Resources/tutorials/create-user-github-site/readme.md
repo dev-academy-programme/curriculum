@@ -7,15 +7,15 @@ Publish a user site on GitHub
 
 2. Fill out the new repository form.
 
- * You *MUST* name your repository *[USERNAME].github.io*
- * Make your repository *public*
- * Select the check to be sure you *Initialize this repository with a README*
- * select the *MIT License*.
- * *Double check* your username in the repository name is _exactly_ the same as your username.
+ * You **MUST** name your repository `[USERNAME].github.io`
+ * Make your repository **public**
+ * Select the check to be sure you **Initialize this repository with a README**
+ * select the **MIT License**.
+ * **Double check** your username in the repository name is _exactly_ the same as your username.
 
 ![The new repository form](images/create-user-website.png)
 
-3. Click on the "*Create Repository*" button.
+3. Click on the "**Create Repository**" button.
 
 ## Clone the repository
 
@@ -63,7 +63,7 @@ git push origin master
 
 ## View your creation
 
-1. Navigate to [your-username].github.io and revel in your awesomeness.
+1. Navigate to https://[your-username].github.io and revel in your awesomeness.
 
 2. If you have time, make some changes to your `index.html` file and re-publish the changes.
 
