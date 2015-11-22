@@ -1,20 +1,23 @@
-#Concept Title
+# Git Basics
 
-##Overview
+## Overview
 
-##Prerequisites 
-###[link-name](link.com)
-###[link-name](link.com)
+## Prerequisites 
+### None
 
-##Capabilities
-When you are comfortable with this concept you will these capabilities:
+## Capabilities
+You are comfortable using the git command line tool to:
 
-##Resources
-###[link-name](link.com)
-###[link-name](link.com)
+* Create a repository on your file system.
+* Stage a file for commit.
+* Unstage a staged file.
+* View the git status.
+* Commit staged files.
 
-##Further Study
-###[link-name](link.com)
-###[link-name](link.com)
+## Resources
+### [Try git](https://try.github.io) Level 1, challenges 1 - 9
+
+## Further Study
+### [Intermediate Git](link.com)
 
 
