@@ -22,7 +22,7 @@ You can use the "print working directory" command, `pwd`, to see which directory
 Here's an example of running `pwd` on the virtual machine you're currently downloading:
 
 <figure>
-  <img src="../../images/pwd.png" alt="The pwd command"><br>
+  <img src="images/pwd.png" alt="The pwd command"><br>
   <figcaption>
     <p><strong>Figure 1:</strong> pwd</p>
   </figcaption>
@@ -39,7 +39,7 @@ We can move up or down directories (folders) by calling "change directory" (`cd`
 So we can move multiple folders at once by stringing them together with /:
 
 <figure>
-  <img src="../../images/cd-circles.png" alt="The cd command"><br>
+  <img src="images/cd-circles.png" alt="The cd command"><br>
   <figcaption>
     <p><strong>Figure 2:</strong> cd</p>
   </figcaption>
@@ -50,7 +50,7 @@ Here we went down into the `workspace` folder (which is a sub-folder in the curr
 But nevertheless there *is* a point here, which is that we can combine folder names and .. to move all through the folder hierarchy with a single command. Now let's `cd` into our `workspace` folder. This is where you'll do all your work for this course. Keep it all here.
 
 <figure>
-  <img src="../../images/cd-workspace.png" alt="Change directory to workspace"><br>
+  <img src="images/cd-workspace.png" alt="Change directory to workspace"><br>
   <figcaption>
     <p><strong>Figure 3:</strong> cd workspace</p>
   </figcaption>
@@ -67,7 +67,7 @@ The tilde (~) represents our home folder, in this instance `/home/dev`. And we'r
 What if we want to list the files and folders in this folder? We can do that with the list (`ls`) command. If we want to see more than just the names, we can add "flags" to the command, preceded with a hyphen. The `a` flag means "all": show all the files, even the hidden ones (files with names starting with a `.` are hidden usually). The "l" flag means use a long listing format, which gives us extra information. We can combine them thus:
 
 <figure>
-  <img src="../../images/ls-al.png" alt="The ls -al command"><br>
+  <img src="images/ls-al.png" alt="The ls -al command"><br>
   <figcaption>
     <p><strong>Figure 4:</strong> ls and ls -al</p>
   </figcaption>
