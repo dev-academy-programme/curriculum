@@ -18,9 +18,9 @@ You are comfortable using the git command line tool to:
 * You understand how to use the basic git workflow to take snapshots of changes to files.
 
 ## Resources
-### [Try git](https://try.github.io) Level 1, challenges 1 - 9
+* [Try git](https://try.github.io) Level 1, challenges 1 - 9
 
 ## Further Study
-### [Git Branching](../git-branching)
+* [Git Branching](../git-branching)
 
 
