@@ -1,8 +1,7 @@
 # Git branching and merging 
 
 ## Overview
-Git allows you to fork off 'branches' from any commit and add add new commits to that branch. This is a powerful tool for developers. It means you can group a sequence of commits as you work on a new feature for example. 
-If you want to bring changes from one branch into another you can 'merge' them in.
+Git allows you to fork off 'branches' from any commit and add add new commits to that branch. This is a powerful tool for developers. It means you can group a sequence of commits as you work on a new feature. Then you can bring changes from your feature branch back into your master branch.
 
 ## Prerequisites 
 
