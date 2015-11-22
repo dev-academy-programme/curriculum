@@ -19,6 +19,7 @@ You are comfortable using the git command line tool to:
 
 ## Resources
 * [Try git](https://try.github.io) Level 1, challenges 1 - 9
+* [Learn git visual game](http://pcottle.github.io/learnGitBranching/) Only exercise 1
 
 ## Further Study
 * [Git Branching](../git-branching)
