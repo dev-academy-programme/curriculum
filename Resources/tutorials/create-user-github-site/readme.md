@@ -61,6 +61,8 @@ git commit -m "initial commit"
 git push origin master
 ```
 
+![Publish a page](images/publish-page.png)
+
 ## View your creation
 
 1. Navigate to https://[your-username].github.io and revel in your awesomeness.
