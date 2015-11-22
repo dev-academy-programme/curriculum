@@ -67,6 +67,8 @@ git push origin master
 
 * Navigate to https://[your-username].github.io and revel in your awesomeness.
 
+![The published site](images/new-site.png)
+
 * If you have time, make some changes to your `index.html` file and re-publish the changes.
 
 ## More information
