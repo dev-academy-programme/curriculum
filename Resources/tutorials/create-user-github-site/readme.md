@@ -27,29 +27,41 @@ This will take you to the new repository form.
 
 2. In the `~/workspace` folder in your terminal, run:
 
+```bash
     git clone [paste the URL here with SHFT-CTRL-v]
+```
 
 ## Publish a page
 
 1. Navigate to the folder for the repo.
 
+```bash
     cd [username].github.io
+```
 
 2. Create a very basic web page.
 
+```bash
     echo "Web development FTW" > index.html
+```
 
 3. Stage your changes.
 
+```bash
     git add .
+```
 
 4. Commit your changes.
 
+```bash
     git commit -m "initial commit"
+```
 
 5. Push your new commit to GitHub.
 
+```bash
     git push origin master
+```
 
 ## View your creation
 
@@ -60,4 +72,3 @@ This will take you to the new repository form.
 ## More information
 
 * [GitHub Pages](https://pages.github.com/)
-
