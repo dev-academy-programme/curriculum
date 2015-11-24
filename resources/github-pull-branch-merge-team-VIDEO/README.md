@@ -1,11 +1,11 @@
 # Github Pull, Branch, Merging & Team Workflow (External)
-[Github Team Workflow](https://www.youtube.com/watch?v=oFYyTZwMyAg)
+[Github Team Work flow](https://www.youtube.com/watch?v=oFYyTZwMyAg)
 
 
 ## Overview
-Github Pull Requests are an integral part of Team Workflow. - 12 Min
+Github Pull Requests are an integral part of Team Work flow. - 12 Min
 
-**Topics Covered:**
+## Topics Covered:
 - branch
 - checkout
 - head
@@ -18,5 +18,5 @@ Github Pull Requests are an integral part of Team Workflow. - 12 Min
 ## Type:
 - Video
 - Live code
-
+- Tutorial
 

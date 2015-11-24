@@ -4,7 +4,7 @@
 ## Overview
 Basic overview of a few simple commands - 9 min
 
-**Topics Covered:**
+## Topics Covered:
 - ls
 - pwd
 - cd

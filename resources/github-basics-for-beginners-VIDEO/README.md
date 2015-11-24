@@ -2,9 +2,9 @@
 [Github Basics for Mac or Windows & Source Control Basics](https://www.youtube.com/watch?v=0fKg7e37bQE)
 
 ## Overview
-Clear explination of GitHub workflow. - 18 Min
+Clear explanation of GitHub work flow. - 18 Min
 
-**Topics Covered:**
+## Topics Covered:
 - installing Git
 - creating a repo
 - cloning
@@ -17,4 +17,5 @@ Clear explination of GitHub workflow. - 18 Min
 ## Type:
 - Video
 - Live code
+- Tutorial
 
