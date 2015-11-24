@@ -1,19 +1,19 @@
 # Title (External or Internal)
-[title/description of resource](link) - Length of estimated / actual time (e.g. 5 min)
+[name of link](link) - Estimated time (e.g. 5 min)
 
 ## Overview
-A quick summary - number min
+A quick summary
 
 ## Topics Covered / Key words:
-- a 
-- b
+-
+-
 
 
 ## Type:
 - Video
 - Live code
+- Demo
 - Article
 - Tutorial
-
 
 
