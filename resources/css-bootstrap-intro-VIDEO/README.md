@@ -1,6 +1,6 @@
-# Bootstrap (External)
-[Bootstrap intro part one](https://www.youtube.com/watch?v=no-Ntkc836w) - 14 min
-[Bootstrap intro part two](bootstrap part 2](https://www.youtube.com/watch?v=rDv9tObvqgo) - 21 min
+# Bootstrap (External)  
+[Bootstrap intro part one](https://www.youtube.com/watch?v=no-Ntkc836w) - 14 min  
+[Bootstrap intro part two](https://www.youtube.com/watch?v=rDv9tObvqgo) - 21 min  
 
 ## Overview
 How to install and use bootstrap
