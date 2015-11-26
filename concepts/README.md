@@ -2,9 +2,8 @@
 
 Concepts are a high level overview of topics included within the cirriculum.
 
-- Each concept has a list of capabilities, which are similar to learning objectives.
-
-- To progress in the phase-0 journey, student's are expected to meet the capability criteria.
+- Each concept has a list of capabilities, which are similar to test criteria 
+- To progress in the phase-0 journey, student's are expected to have the capabilities to pass the assignments
 
 ## How to use
-You can directly navigate to a concept by clicking on the file from the content listing above. Else, links to particular concepts will be embeded within student assignments.
+This repo is not intended to be navigated directly. Links to relevant concepts are linked to via the weekly overviews.
