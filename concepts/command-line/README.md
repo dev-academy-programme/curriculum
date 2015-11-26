@@ -27,5 +27,5 @@ You are comfortable using the command line tool to:
 
 ## Resources 
 - [Live demo video and explination of command line](/resources/command-line-terminal-VIDEO)
-- [Kata exercises for practicing the command line)(/resources/command-line-terminal-VIDEO/README.md)
+- [Kata exercises for practicing the command line](/resources/command-line-terminal-VIDEO/README.md)
 - [Command line tutorial](resources/command-line-terminal-TUTORIAL)
