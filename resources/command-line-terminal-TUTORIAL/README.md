@@ -1,4 +1,4 @@
-# The command line
+# The command line Tutorial 
 
 The command line (a.k.a terminal, shell, prompt) is another way of interacting with your computer. Instead of working with windows, toolbars, menus, and buttons, you're just interacting with text.
 
@@ -7,9 +7,9 @@ Knowing how to use your command line will be vital to your success as a programm
 
 # Practicing the command line
 
-Both these tutorials can help you get more familiar with the command line
+This Kata type (training exercise) tutorial is an excellent way to get more familiar with the command line
 - [Read/do: The command line crash course](http://cli.learncodethehardway.org/book/)
-- [Read/do: Learn the command line](https://www.codecademy.com/learn/learn-the-command-line)
+
 
 # Common commands
 
@@ -100,8 +100,5 @@ OK, that's enough for the moment. You'll pick these up quickly as you go along. 
 
 To get out of the shell (terminal), just type `exit` and hit Enter.
 
-## Resources
-
-- [Cheat sheet](http://cli.learncodethehardway.org/bash_cheat_sheet.pdf) (that'll keep ya busy)
 
 
