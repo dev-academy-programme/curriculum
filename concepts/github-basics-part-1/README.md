@@ -15,5 +15,6 @@ When you are comfortable with this concept you will these capabilities:
   - push 
 
 ## Resources 
-- [GitHub Tutorial for beginners (Video)](resources/github-basics-for-beginners-VIDEO)
+- [GitHub Tutorial for beginners (Video / Code)](resources/github-basics-for-beginners-VIDEO)
 - [GitHub Tutorial for beginners (Text)](/resources/github-phase-0-workflow-TUTORIAL)
+- [Git Tutorial for beginners steps 1-9](resources/git-basics-INTERACTIVE)
