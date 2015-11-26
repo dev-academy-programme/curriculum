@@ -1,5 +1,5 @@
-# Basic Terminal Usage (External)
-[Live code tutorial for command line terminal](https://www.youtube.com/watch?v=jDINUSK7rXE&list=PLoYCgNOIyGAB_8_iq1cL8MVeun7cB6eNc&index=16)
+# Basic Command line / Terminal Usage (External)
+[Live code vide demo for command line terminal](https://www.youtube.com/watch?v=jDINUSK7rXE&list=PLoYCgNOIyGAB_8_iq1cL8MVeun7cB6eNc&index=16)
 
 ## Overview
 Basic overview of a few simple commands - 9 min
