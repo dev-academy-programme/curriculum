@@ -14,6 +14,7 @@ When you are comfortable with this concept you will have these capabilities:
 * Ability to dedicate focussed time to a task
 * Self awareness of focus
 * Ability to create new habits
+* Ability to reflect on and improve your time and focus habits
 
 ## Resources
 
