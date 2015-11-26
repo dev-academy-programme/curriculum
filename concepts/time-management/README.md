@@ -1,16 +1,19 @@
 # Time Management
 
 ## Overview
+Dedicating sufficient time and focus to tasks is a key web dev skill.
 
 ## Prerequisites 
 
-* [link-name](link.com)
+None
 
 ## Capabilities
 
-When you are comfortable with this concept you will these capabilities:
+When you are comfortable with this concept you will have these capabilities:
 
-* Can manage time appropriately
+* Ability to dedicate focussed time to a task
+* Self awareness of focus
+* Ability to create new habits
 
 ## Resources
 
