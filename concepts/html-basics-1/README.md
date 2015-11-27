@@ -16,6 +16,7 @@ You are comfortable with
 ## Resources
 - [HTML intro - how to setup an HTML index page (Video)](/resources/html-intro-index-page-tags-VIDEO)
 - [HTML fundamentals (Article)](/resources/html-fundamentals-TUTORIAL)
+- [HTML index.html template example](/resources/html-template-EXAMPLE)
 
 ## Further study
 - [HTML Code Academy HTML Basics](https://www.codecademy.com/learn/web)
