@@ -1,7 +1,8 @@
 # Try Git (External) 
+[Interactive tutorial to practice git and github](https://try.github.io/levels/1/challenges/1) - 15 min
 
 ## Overview 
-[Interactive tutorial to practice git and github](https://try.github.io/levels/1/challenges/1)
+Try out basic commands.
 
 ## Topics Covered
 **Part-1 steps 1-9**
