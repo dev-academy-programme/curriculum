@@ -11,7 +11,7 @@ How to submit your engineering empathy reflections
 
 ## What you need to create
   Reflection files pushed to Github, stored in the correct place in your cohort's private repo.
-  Within your cohorts repo:
+  Within your cohort's private repo:
   `EE/`YOURFIRSTNAME-YOURLASTNAME`/sprint-`SPRINT_NUMBER`/`REFLECTION_NAME_1.md  
   e.g.  
   `EE/anahi-jacobson/sprint-1/habits.md`  
@@ -19,8 +19,8 @@ How to submit your engineering empathy reflections
 
 ## How to add your reflections
 
-1. Clone your cohort's repo from the github dev-academy-phase0 org
-  1. Find the repo on github
+1. Clone down your cohort's repo from the Github `dev-academy-programme` organisation
+  1. Find the repo on github https://github.com/dev-academy-programme
   2. Copy the 'clone' url up the top of the page
   3. In your terminal, navigate into your EDAworkspace directory using 
     - `cd` to move, 
