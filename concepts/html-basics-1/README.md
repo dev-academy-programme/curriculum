@@ -1,7 +1,7 @@
 # HTML Basics
 
 ## Overview
-HTML is
+HTML describes what each part of a web page is to your browser.
 
 ## Prerequisites
 None

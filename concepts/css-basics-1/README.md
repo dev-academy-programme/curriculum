@@ -1,7 +1,7 @@
 # CSS Basics
 
 ## Overview
-
+CSS (Cascading Style Sheets) is the language that makes the web look tino pai! (good).
 
 ## Prerequisites
 HTML-basics (index.html, tags)
@@ -15,7 +15,7 @@ You are comfortable with
 
 ## Resources
 - [CSS intro (Video)](/resources/css-intro-VIDEO/README.md)
-- CSS fundementals (Article)]()
+- CSS fundamentals (Article)]()
 
 ## Further study
 - [CSS tutorial (Article)](/resources/css-fundamentals-ARTICLE)
