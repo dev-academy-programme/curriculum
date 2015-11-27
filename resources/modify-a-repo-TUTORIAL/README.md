@@ -20,7 +20,7 @@ How to submit your engineering empathy reflections
 ## How to add your reflections
 
 1. Clone down your cohort's repo from the Github `dev-academy-programme` organisation
-  1. Find the repo on github https://github.com/dev-academy-programme
+  1. Click into your cohort's repo on github https://github.com/dev-academy-programme
   2. Copy the 'clone' url up the top of the page
   3. In your terminal, navigate into your EDAworkspace directory using 
     - `cd` to move, 
