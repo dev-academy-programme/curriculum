@@ -18,8 +18,10 @@ When you are comfortable with this concept you will these capabilities:
 
 ## Resources
 - [GitHub Tutorial for beginners (Video / Code)](/resources/github-basics-for-beginners-VIDEO)  
-- [GitHub Tutorial for beginners (Text)](/resources/github-basics-for-beginners-VIDEO)
+- [Git Article for beginners](/resources/git-basics-ARTICLE)
+- [GitHub Tutorial for beinners including phase-0 workflow (Text)](/resources/github-phase-0-workflow-TUTORIAL)
 - [Git Tutorial for beginners steps 1-9 (Interactive)](/resources/git-basics-INTERACTIVE)
+
 
 
 ## Further study 
