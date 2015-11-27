@@ -8,9 +8,8 @@ GitHub is a version control tool that utilises Git and makes it easy for develop
 - GitHub account
 
 ## Capabilities
-When you are comfortable with this concept you will these capabilities:
+You are comfortable with basic git workflow. You can:  
 
-- Can use basic git workflow
   - clone
   - stage
   - push
