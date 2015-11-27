@@ -1,7 +1,7 @@
 # Try Git (External) 
 
 ## Overview 
-Interactive tutorial to practice git and github 
+[Interactive tutorial to practice git and github](https://try.github.io/levels/1/challenges/1)
 
 ## Topics Covered
 **Part-1 steps 1-9**
