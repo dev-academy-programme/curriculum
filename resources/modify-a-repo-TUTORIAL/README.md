@@ -12,10 +12,10 @@ How to submit your engineering empathy reflections
 ## What you need to create
   Reflection files pushed to Github, stored in the correct place in your cohort's private repo.
   Within your cohorts repo:
-  `EE/`YOURFIRSTNAME-YOURLASTNAME`/sprint-`SPRINT_NUMBER`/REFLECTION_NAME_1.md
-  e.g.
-  `EE/anahi-jacobson/sprint-1/habits.md`
-  `EE/anahi-jacobson/sprint-1/time-management.md`
+  `EE/`YOURFIRSTNAME-YOURLASTNAME`/sprint-`SPRINT_NUMBER`/`REFLECTION_NAME_1.md  
+  e.g.  
+  `EE/anahi-jacobson/sprint-1/habits.md`  
+  `EE/anahi-jacobson/sprint-1/time-management.md`  
 
 ## How to add your reflections
 
