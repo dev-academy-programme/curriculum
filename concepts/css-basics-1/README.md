@@ -15,11 +15,8 @@ You are comfortable with
 
 ## Resources
 - [CSS intro (Video)](/resources/css-intro-VIDEO/README.md)
-<<<<<<< HEAD
-- CSS fundamentals (Article)]()
-=======
 - [CSS fundementals (Article)](/resources/css-fundamentals-ARTICLE)
->>>>>>> 86cfee14854690df54b554dbb788e99e97577b89
+
 
 ## Further study
 - [HTML Code Academy CSS Basics](https://www.codecademy.com/learn/webhttps://www.codecademy.com/courses/web-beginner-en-TlhFi/0/1?curriculum_id=50579fb998b470000202dc8b)
