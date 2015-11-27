@@ -6,7 +6,7 @@ After setting up an HTML page, begin adding CSS styles to it. **This tutorial fo
 
 [Part one - create an HTML index page](https://www.youtube.com/watch?v=3JluqTojuME) - 15 min  
 [Part two - add CSS (basics)](https://www.youtube.com/watch?v=gBi8Obib0tw) - 15 min  
-[Part three - CSS layouts](https://www.youtube.com/watch?v=9tzyJEwO9Os) - 22 min  
+[Part three - CSS layouts (semantics)](https://www.youtube.com/watch?v=9tzyJEwO9Os) - 22 min  
 
 (Not recommended until you're fully confident with writing your own css styles)  
 [Part four - bootstrap](http://www.youtube.com/watch?v=no-Ntkc836w) - 14 min  
