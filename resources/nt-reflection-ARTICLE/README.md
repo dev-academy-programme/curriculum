@@ -24,3 +24,13 @@ Time box this activity to 30 minutes. Remember to record it in your toggl.
 -[The importance of reflection](http://www.trainingzone.co.uk/develop/talent/the-importance-of-reflection)
 -[The importance of reflection in education](http://www.edunators.com/index.php/becoming-the-edunator/step-5-reflecting-for-learning/the-importance-of-reflection-in-education)
 - [learning and leading with habits of mind](http://www.ascd.org/publications/books/108008/chapters/Learning-Through-Reflection.aspx)
+
+## Types of reflection activities 
+- Journals
+- Reflective papers
+- Class discussions
+- Small-group discussions
+- Presentations
+- Responses to course readings
+- Responses to outside readings, media content, and experiences relevant to the issues surrounding the service activity
+- Electronic discussions (e.g., chat, e-mail, online forum)
