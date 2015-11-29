@@ -18,10 +18,6 @@ When you are comfortable with this concept you will have these capabilities:
 
 ## Resources
 
-* [link-name](link.com)
-
-## Further Study
-
-* [link-name](link.com)
+* [Explore the domain Article](https://github.com/dev-academy-programme/curriculum/tree/master/resources/nt-time-ARTICLE)
 
 
