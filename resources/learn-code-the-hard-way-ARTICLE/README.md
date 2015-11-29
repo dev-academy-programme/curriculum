@@ -1,8 +1,11 @@
 # A rigorous approach to learning code (External)
-[Learn Ruby The Hard Way](http://learnrubythehardway.org/book/intro.html) - 10 mins
+[Key elements to coding](http://learnrubythehardway.org/book/intro.html) - 10 mins
+
 
 ## Overview
-A wholistic approach to learning and practicing code, with great tips for helpful attitudes to get through tough times.
+While this is a ruby book, the same principals apply to JavaScript. It takes a holistic approach to learning and practicing code, with great tips for helpful attitudes to get through tough times.
+
+**Read the first page only**
 
 ## Topics Covered:
 Key elements to coding:
@@ -10,7 +13,7 @@ Key elements to coding:
 - Attention to detail
 - Spotting differences
 
-How to learn:
+How approach a problem:
 - Go through each exercise.
 - Type in each sample exactly.
 - Make it run.
@@ -18,8 +21,5 @@ How to learn:
 
 
 ## Type:
-- Video
-- Live code
-- Demo
 - Article
-- Tutorial
+
