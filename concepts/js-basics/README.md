@@ -25,5 +25,5 @@ You are comfortable with
 
 ## Further study / Stretch
 - [Kirupa's JavaScript DOM tutorial](/resources/js-dom-kirupa-TUTORIAL)
-- [Kirupa's events tutorial](resources/js-dom-kirupa-TUTORIAL)
-- [What makes JS weird and awesome video series](js-intermediate-5-concepts-VIDEO)
+- [Kirupa's events tutorial](resources/js-events-series-kirupa-MULTIMODAL)
+- [What makes JS weird and awesome video series](/resources/js-intermediate-5-concepts-VIDEO)
