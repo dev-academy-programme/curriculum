@@ -2,13 +2,12 @@
 
 ## Overview
 
-## Prerequisites 
+## Prerequisites
 
 * [link-name](link.com)
 
 ## Capabilities
-
-When you are comfortable with this concept you will these capabilities:
+You are comfortable:
 
 * Capability
 

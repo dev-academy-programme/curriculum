@@ -1,8 +1,8 @@
 # Github Tutorial For Beginners (External)
-[Github Basics for Mac or Windows & Source Control Basics](https://www.youtube.com/watch?v=0fKg7e37bQE)
+[Github Basics for Mac or Windows & Source Control Basics](https://www.youtube.com/watch?v=0fKg7e37bQE) - 18 Min
 
 ## Overview
-Clear explanation of GitHub work flow. - 18 Min
+Clear explanation of GitHub work flow. 
 
 ## Topics Covered:
 - installing Git
