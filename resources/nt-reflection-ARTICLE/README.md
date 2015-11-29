@@ -23,4 +23,4 @@ Time box this activity to 30 minutes. Remember to record it in your toggl.
 - [Four questions to ask yourself everyday](https://www.linkedin.com/pulse/20140402151626-7386607-4-questions-you-should-ask-yourself-every-day?trk=tod-home-art-list-large_0)
 -[The importance of reflection](http://www.trainingzone.co.uk/develop/talent/the-importance-of-reflection)
 -[The importance of reflection in education](http://www.edunators.com/index.php/becoming-the-edunator/step-5-reflecting-for-learning/the-importance-of-reflection-in-education)
-- [learning through reflection ]
+- [learning and leading with habits of mind](http://www.ascd.org/publications/books/108008/chapters/Learning-Through-Reflection.aspx)
