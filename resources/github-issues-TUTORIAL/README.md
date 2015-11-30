@@ -12,6 +12,8 @@ You can work with us to craft ever better curriculum and contribute to the educa
 
 Follow the [create an issue guide](https://help.github.com/articles/creating-an-issue/) to create an issue in your cohort's repo.
 
+**Please provide a hyperlink or screenshot when submitting an issue.** For example if you were to see a typo in `github.com/dev-academy-programme/curriculum/resource/git-hub-intro` please copy that URL and past it into issues. 
+
 Using issues will prepare you to contribute to the wonderful open source world.
 
 Us web developers can build amazing things incredibly quickly, but only thanks to the thousands and thousands of hours of many generous open source developers. The Linux operating system you're reading this on was built in this way, and a large proportion of tools and packages you'll use in every project are open source (most of the internet is hosted on Linux machines!).
