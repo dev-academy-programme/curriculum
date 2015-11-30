@@ -10,7 +10,7 @@ You can work with us to craft ever better curriculum and contribute to the educa
 - Problems you find in our curriculum (typos, broken links etc.)
 - Improvements to our curriculum that you can see (there are amazing new learning resources created every ten minutes, maybe you'll find the gems before we do!)
 
-Follow the [create and issue guide](https://help.github.com/articles/creating-an-issue/) to create an issue in your cohort's repo.
+Follow the [create an issue guide](https://help.github.com/articles/creating-an-issue/) to create an issue in your cohort's repo.
 
 Using issues will prepare you to contribute to the wonderful open source world.
 
