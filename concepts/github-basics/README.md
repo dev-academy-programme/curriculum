@@ -19,7 +19,7 @@ You are comfortable with basic git workflow. You can:
 ## Resources
 - [GitHub Tutorial for beginners (Video / Code)](/resources/github-basics-for-beginners-VIDEO)  
 - [Git Article for beginners](/resources/git-basics-ARTICLE)
-- [GitHub Tutorial for beinners including phase-0 workflow (Text)](/resources/github-phase-0-workflow-TUTORIAL)
+- [GitHub Tutorial for beginners including phase-0 workflow (Text)](/resources/github-phase-0-workflow-TUTORIAL)
 - [Git Tutorial for beginners steps 1-9 (Interactive)](/resources/git-basics-INTERACTIVE)
 - [Git Tutorial for issues](/resources/github-issues-TUTORIAL)
 
