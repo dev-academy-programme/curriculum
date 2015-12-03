@@ -12,8 +12,8 @@ This means that it is possible to:
 **GitHub** is an online interface to easily use Git to collaborate with many people. GitHub hosts your projects online and adds some extra functionality to git such as 'issues' and 'pull requests'.
 
 **Git vs GitHub**  
-Git is the tool  
-GitHub is the service for projects that use git  
+Git is the local tool  
+GitHub is the remote service for projects that use git  
 
 **Wow. What?**
 If everything seems unclear now, don't worry. Time and practice are the best way to let things sink in. It'll make more sense using Git and GitHub in your own projects.
