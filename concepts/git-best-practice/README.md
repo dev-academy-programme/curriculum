@@ -25,20 +25,21 @@ If everything seems unclear now, don't worry. Time and practice are the best way
 - [GitHub basics 1](/concepts/github-basics-1)
 
 ## Capabilities
-You are comfortable with basic git workflow. You can:  
-
+You can use Git and Github to collaborate on projects. You can:  
+  - understand local and remote repositories
   - make and push branches
   - create 'pull requests'
   - write good commit messages
-  - apply best practices 
-  - use git log to review your project's history
+  - make small commits
+  - use Git to review your project's history
 
 ## Resources
+- [Git beginners steps 1-9 (Interactive)](/resources/git-basics-INTERACTIVE)
 - [GitHub Tutorial for beginners (Video / Code)](/resources/github-basics-for-beginners-VIDEO)  
-- [Git Article for beginners](/resources/git-basics-ARTICLE)
-- [GitHub Tutorial for beginners including phase-0 workflow (Text)](/resources/github-phase-0-workflow-TUTORIAL)
-- [Git Tutorial for beginners steps 1-9 (Interactive)](/resources/git-basics-INTERACTIVE)
-- [Git Tutorial for issues](/resources/github-issues-TUTORIAL)
+- [Git for beginners (Article)](/resources/git-basics-ARTICLE)
+- [GitHub issues (Tutorial)](/resources/github-issues-TUTORIAL)
+- [Example github workflows and common errors (Text/Tutorial)](/resources/github-phase-0-workflow-TUTORIAL)
+- [GitHub/Git glossary (Text)](/resource/git-glossary-TEXT)
 
 
 
