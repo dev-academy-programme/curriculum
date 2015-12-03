@@ -34,7 +34,8 @@ You can use Git and Github to collaborate on projects. You can:
   - use Git to review your project's history
 
 ## Resources
-- [Git beginners steps 1-9 (Interactive)](/resources/git-basics-INTERACTIVE)
+Use these resources (and others you find) to learn the capabilities above! There will be other capabilities in the resources - focus on learning the capabilities above, you'll learn the rest when you need it.
+- [Git beginners steps 9+ (Interactive)](/resources/git-basics-INTERACTIVE)
 - [GitHub Tutorial for beginners (Video / Code)](/resources/github-basics-for-beginners-VIDEO)  
 - [Git for beginners (Article)](/resources/git-basics-ARTICLE)
 - [GitHub issues (Tutorial)](/resources/github-issues-TUTORIAL)
