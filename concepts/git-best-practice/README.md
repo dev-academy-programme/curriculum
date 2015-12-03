@@ -29,7 +29,6 @@ You can use Git and Github to collaborate on projects. You can:
   - make and push branches
   - create 'pull requests'
   - write good commit messages
-  - make small commits
   - use Git to review your project's history
 
 ## Resources
@@ -38,10 +37,8 @@ Use these resources (and others you find) to learn the capabilities above! There
 - [GitHub/Git glossary (Text)](/resources/git-glossary-TEXT)
 - [GitHub Tutorial for beginners (Video / Code)](/resources/github-basics-for-beginners-VIDEO)  
 - [Git for beginners (Article)](/resources/git-basics-ARTICLE)
-- [GitHub issues (Tutorial)](/resources/github-issues-TUTORIAL)
 - [Example github workflows and common errors (Text/Tutorial)](/resources/github-phase-0-workflow-TUTORIAL)
-
-
+- [Git best practices (Article)](/resources/git-best-practices-ARTICLE)
 
 
 ## Further study 
