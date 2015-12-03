@@ -27,13 +27,11 @@ If everything seems unclear now, don't worry. Time and practice are the best way
 ## Capabilities
 You are comfortable with basic git workflow. You can:  
 
-  - clone
-  - stage
-  - push
-  - pull
-  - create an issue
-  
-  -
+  - make and push branches
+  - create 'pull requests'
+  - write good commit messages
+  - apply best practices 
+  - use git log to review your project's history
 
 ## Resources
 - [GitHub Tutorial for beginners (Video / Code)](/resources/github-basics-for-beginners-VIDEO)  
