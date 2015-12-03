@@ -6,8 +6,8 @@ CSS Basics builds upon the [HTML basics](/resources/html-basics-CODEACADEMY-TUTO
 ## Overview
 Code Academy takes a simple step by step approach to helping learn the basics of HTML and CSS. Unit Four: Intro to CSS builds on Units 1-3 (HTML Basics)
 
-- **Unit Four:** Intro to CSS
-    Lesson: *CSS Overview*
+- **Unit Four:** Intro to CSS  
+    Lesson: *CSS Overview*  
     - What is CSS
     - Separate form from function
     - Linking to HTML <link>
@@ -27,9 +27,10 @@ Code Academy takes a simple step by step approach to helping learn the basics of
     - Draw button
     - Shape button
     - Position button
+<br>  
 
-- **Unit Five:** CSS Classes and IDs
-    Lesson: *CSS Selectors*
+- **Unit Five:** CSS Classes and IDs  
+    Lesson: *CSS Selectors*  
     - HTML elements are selectors
     - Branching
     - Parents, children, siblings
@@ -38,14 +39,16 @@ Code Academy takes a simple step by step approach to helping learn the basics of
     - Pseudo class selectors `selector:pseudo-class_selector
     - Multiple selectors
 
-    Lesson: *Sorting your friends*
+    Lesson: *Sorting your friends*   
     - Styles
     - Divs
     - Classes
-    - ID's
+    - ID's  
+<br>  
 
-- **Unit Six:** CSS Element Positioning
-    Lesson: *CSS Positioning*
+
+- **Unit Six:** CSS Element Positioning  
+    Lesson: *CSS Positioning*  
     - The box model
     - Taking up space
       - `display`
@@ -58,7 +61,7 @@ Code Academy takes a simple step by step approach to helping learn the basics of
     - `position: absolute`, `relative` and `fixed`
     - Navigation bar
 
-    Lesson: *Build a Resume*
+    Lesson: *Build a Resume*  
     - Laying out your divs
     - Sizing, color
     - Fixing header
