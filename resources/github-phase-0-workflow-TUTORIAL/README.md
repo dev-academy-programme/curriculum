@@ -11,7 +11,28 @@ Once you have an account, you can create your first repository. Then we'll clone
 # GitHub workflow:
 This is an example of how you will be interacting with GitHub each week.
 
-You will learn how to
+### Working on master
+
+- [Create a git <abbr title="repository">repo</abbr> on Github](#step-1-create-a-repo)  
+- [Clone it down](#step-3-clone-your-repo-to-workspace)  
+- [Make changes](#step-4-create-a-new-file-in-your-directory)  
+- [Stage and commit changes](#step-6-stage-files-to-be-committed)  
+- [Push to GitHub](#step-9-push-files-to-github)
+
+### Working with pull requests on branches
+
+- [Create a git <abbr title="repository">repo</abbr> on Github](#step-1-create-a-repo)  
+- [Clone it down](#step-3-clone-your-repo-to-workspace)  
+- [Create a branch](#step-10-create-a-branch) 
+- [Make changes](#step-4-create-a-new-file-in-your-directory)  
+- [Push your branch and changes to Github](#step-11-pushing-the-new-branch)
+- [Create pull request](#step-13-create-a pull-request) 
+
+Another person
+- [Review pull request](#step-14-review-a-pull-request)
+
+
+### You will learn how to
 * Create a standard workspace directory (A folder which will hold all of your EDA repositories)
 * Create a repository (E.g. `sprint-1)
 * Clone it, make changes to it, commit them and push to GitHub
@@ -320,6 +341,8 @@ I made a small change in a file using Sublime Text 3, then saved the change. Now
   </figcaption>
 </figure>
 
+## Step 13: Create a pull request
+
 Now we can go back to *my* GitHub account and create a pull request. To the right we should see a Pull request tab (see image above). If I click on that, then click the big, green "New pull request" button, then we arrive at the form to create the pull request. There are select boxes from which we can select the "from" and "to" repositories/branches. I'll leave them where they are.
 
 <figure>
@@ -348,6 +371,8 @@ Now, if we were those owners, we'd see a pull request show up on our repo. (Note
     <p><strong>Figure 22:</strong> The owners of the official repo see our pull request</p>
   </figcaption>
 </figure>
+
+## Step 14: Review a pull request
 
 As an owner, I can click on "Pull requests" and see the waiting pull requests:
 
