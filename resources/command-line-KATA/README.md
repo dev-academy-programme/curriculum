@@ -5,7 +5,7 @@
 ## Overview 
 Excellent walk through Kata (training) type exercises 
 
-## Tocpics Covered / Key Words 
+## Topics Covered / Key Words 
 
 - pwd
 - hostname
