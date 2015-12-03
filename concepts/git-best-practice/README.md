@@ -35,11 +35,12 @@ You can use Git and Github to collaborate on projects. You can:
 ## Resources
 Use these resources (and others you find) to learn the capabilities above! There will be other capabilities in the resources - focus on learning the capabilities above, you'll learn the rest when you need it.
 - [Git beginners steps 9+ (Interactive)](/resources/git-basics-INTERACTIVE)
+- [GitHub/Git glossary (Text)](/resources/git-glossary-TEXT)
 - [GitHub Tutorial for beginners (Video / Code)](/resources/github-basics-for-beginners-VIDEO)  
 - [Git for beginners (Article)](/resources/git-basics-ARTICLE)
 - [GitHub issues (Tutorial)](/resources/github-issues-TUTORIAL)
 - [Example github workflows and common errors (Text/Tutorial)](/resources/github-phase-0-workflow-TUTORIAL)
-- [GitHub/Git glossary (Text)](/resources/git-glossary-TEXT)
+
 
 
 
