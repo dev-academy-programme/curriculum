@@ -39,7 +39,7 @@ Use these resources (and others you find) to learn the capabilities above! There
 - [Git for beginners (Article)](/resources/git-basics-ARTICLE)
 - [GitHub issues (Tutorial)](/resources/github-issues-TUTORIAL)
 - [Example github workflows and common errors (Text/Tutorial)](/resources/github-phase-0-workflow-TUTORIAL)
-- [GitHub/Git glossary (Text)](/resource/git-glossary-TEXT)
+- [GitHub/Git glossary (Text)](/resources/git-glossary-TEXT)
 
 
 
