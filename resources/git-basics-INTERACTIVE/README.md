@@ -9,7 +9,7 @@ Try out basic commands.
 
 - `git init`
 - `git status`
-- staging 
+- staging: `add`, `commit`
 - `git log`
 
 **Part-2 steps 9 onwards** 
@@ -24,7 +24,7 @@ Try out basic commands.
 - `git branch`
 - `git rm`
 - `git merge` 
-- git branch -d`
+- `git branch -d`
 
 
 ## Type 
