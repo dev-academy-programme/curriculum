@@ -1,5 +1,5 @@
-# Git Basics
-
+# Welcome to Git and Github
+The web developers' best friends
 ## Overview
 ### Git
 Git is beautiful version control software - it manages and records changes to files and documents in a project. 
@@ -19,7 +19,7 @@ GitHub is the service for projects that use git
 ### Wow. What?
 If everything seems unclear now, don't worry. Time and practice are the best way to let things sink in. It'll make more sense using Git and GitHub in your own projects.
 
-## Prerequisiites
+## Prerequisites
 - Command line basics
 - GitHub account
 
