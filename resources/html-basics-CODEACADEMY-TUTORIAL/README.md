@@ -8,11 +8,11 @@ Code Academy takes a simple step by step approach to helping learn the basics of
     - Why learn HTML
     - HTML and CSS
     - Basic terminology
-    - Paragraphs <p>
-    - Body <body>
-    - Body elements e.g. <h1>
-    - Adding images <img>
-    - Linking images <img src=>
+    - Paragraphs `<p>`
+    - Body `<body>`
+    - Body elements e.g. `<h1>`
+    - Adding images `<img>`
+    - Linking images `<img src=>`
 
     *Lesson: Build a simple website*
     - Use the topics from the previous HTML basics lesson to build simple HTML
@@ -20,18 +20,18 @@ Code Academy takes a simple step by step approach to helping learn the basics of
   - **Unit Two:** HTLM Structure: *Using lists*
     Lesson: *HTML Basics II* (do only steps 1-6)
     - Indentation
-    - Lists <li> <ol> <ul>
+    - Lists `<li>` `<ol>` `<ul>`
     - Making comments
 
-    *Steps 7 onwards uses inline styling - It's bad practice to style HTML directly (style should be in its on own CSS file)
+    *Skip steps 7 onwards - It's bad practice to style HTML directly (style should be in its on own CSS file)
 
   - **Unit Three:** HTML Structure: *Tables, Divs, Spans
-    - Tables <table>
-    - Rows <tr>
-    - Columns <td>
-    - Table head <thead>
-    - Div <div>
-    - Span <span>
+    - Tables `<table>`
+    - Rows `<tr>`
+    - Columns `<td>`
+    - Table head `<thead>`
+    - Div `<div>`
+    - Span `<span>h1`
 
 - Units Four and Five are [intro to CSS](resources/css-basics-CODEACADEMY-TUTORIAL)
 
