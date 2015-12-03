@@ -1,7 +1,12 @@
-# GitHub Basics
+# Git Basics
 
 ## Overview
-GitHub is a version control tool that utilises Git and makes it easy for developers to share code.
+Git is beautiful version control software - it manages and records changes to files and documents in a project. 
+This means that it is possible to:
+  1. Have one master copy of the project
+  2. Give everyone access to a copy of the project that they can work on
+  3. Have many people working on the same project without messing up each others work
+  4. Roll back to previous versions of the project
 
 ## Prerequisiites
 - Command line basics
