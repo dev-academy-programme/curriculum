@@ -2,7 +2,7 @@
 The web developers' best friends
 ## Overview
 #### Git
-Git is beautiful version control software - it manages and records changes to files and documents in a project. 
+Git is version control software - it manages and records changes to files and documents in a project. 
 This means that it is possible to:
   1. Have one master copy of the project
   2. Give everyone access to a copy of the project that they can work on
