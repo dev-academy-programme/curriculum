@@ -1,4 +1,4 @@
-# HTML Basics
+# HTML Basics Part 1
 
 ## Overview
 HTML describes what each part of a web page is to your browser.
