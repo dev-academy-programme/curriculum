@@ -1,28 +1,47 @@
-# Git Basics
-
+# Welcome to Git and Github
+The web developers' best friends
 ## Overview
-Git is a command line tool for managing changes to source code. 
+#### Git
+Git is version control software - it manages and records changes to files and documents in a project. 
+This means that it is possible to:
+  1. Have one master copy of the project
+  2. Give everyone access to a copy of the project that they can work on
+  3. Have many people working on the same project without messing up each others work
+  4. Roll back to previous versions of the project
 
-## Prerequisites 
-None
+#### GitHub
+GitHub is an online interface to easily use Git to collaborate with many people. GitHub hosts your projects online and adds some extra functionality to git such as 'issues' and 'pull requests'.
+
+#### Git vs GitHub
+Git is the tool
+GitHub is the service for projects that use git
+
+#### Wow. What?
+If everything seems unclear now, don't worry. Time and practice are the best way to let things sink in. It'll make more sense using Git and GitHub in your own projects.
+
+## Prerequisites
+- Command line basics
+- GitHub account
 
 ## Capabilities
-You are comfortable using the git command line tool to:
-
-* Create a repository on your file system.
-* Stage a file for commit.
-* Unstage a staged file.
-* View the git status.
-* Commit staged files.
-
-* You understand how to use the basic git workflow to take snapshots of changes to files.
+You are comfortable with basic Git workflow. You can:  
+  - understand local and remote repositories
+  - clone a repository
+  - stage changes:
+    - check change status
+    - add changes
+    - commit changes
+  - push changes
+  - pull changes
+  - create GitHub issues
 
 ## Resources
-- [GitHub Tutorial for beginners (Video / Code)](resources/github-basics-for-beginners-VIDEO)
-- [GitHub Tutorial for beginners (Text)](/resources/github-phase-0-workflow-TUTORIAL)
-- [Git Tutorial for beginners steps 1-9](resources/git-basics-INTERACTIVE)
+- [Git beginners steps 1-9 (Interactive)](/resources/git-basics-INTERACTIVE)
+- [GitHub Tutorial for beginners (Video / Code)](/resources/github-basics-for-beginners-VIDEO)  
+- [Git for beginners (Article)](/resources/git-basics-ARTICLE)
+- [GitHub issues (Tutorial)](/resources/github-issues-TUTORIAL)
+- [Example github workflows and common errors (Text/Tutorial)](/resources/github-phase-0-workflow-TUTORIAL)
+- [GitHub/Git glossary (Text)](/resource/git-glossary-TEXT)
 
-## Further Study
-- [Intermediate Git](lhttps://www.atlassian.com/git/tutorials/comparing-workflows)
-
-
+## Further study 
+- [Intermediate Git](https://www.atlassian.com/git/tutorials/comparing-workflows)
