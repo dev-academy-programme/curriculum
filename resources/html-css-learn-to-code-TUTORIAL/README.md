@@ -70,7 +70,7 @@ Article based lessons about HTML and CSS. Good for learners with reading prefere
 
 - Lesson 10: Building Forms
   - Initializing a Form
-  - Text Fields & Textareas
+  - Text Fields & Text areas
   - Multiple Choice Inputs & Menus
   - Form Buttons
   - Other Inputs
