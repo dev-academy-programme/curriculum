@@ -63,21 +63,3 @@ It is good to ask yourself:
 #### Phase 8: Iterate
 - Iterate phases 3-7 as business needs change and feature additions and changes are required
 
-## Designing your github.io website
-You're website will become a collection of your Dev Academy work. You can take you're website in many directions, but to begin it will require pages for your profile, blog and projects.
-
-Think about the purpose of your website and who you want to visit it. Potential employers will often seek out a candidates online profile and blogs to learn a little about your process and your experiences. Do you want to be designing your site with this in mind? Or do you want to use it simply as a means to complete your assignments?
-
-## Student blog examples
-
-
-[Raza DBC](http://sjafri5.github.io/)  
-[Nick's blog (EDA)](http://widdersh.in/)  
-[Eugene's blog turned into an online portfolio (EDA)](http://euglazer.github.io/)  
-[Jasmine (EDA)](http://jasminmayfield.github.io/)  
-[Oli Treadwell turned his blog into a full website and purchased his own domain name (DBC)](http://www.olitreadwell.com/posts/)  
-[Caroline (DBC) who also purchased her own domain name](http://car.oline.codes/)  
-[Andrew's (DBC)](http://omgmakeme.github.io/index.html)  
-[Fabi Castillo (DBC)](http://fab9.github.io/)  
-[Beth Makes (DBC)](http://cynaria.github.io/)  
-[Amelia (EDA)](http://amelialaundy.github.io/)  
