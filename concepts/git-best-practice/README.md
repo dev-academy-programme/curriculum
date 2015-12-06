@@ -30,10 +30,12 @@ You can use Git and Github to collaborate on projects. You can:
   - **create 'pull requests'**
   - write good commit messages
   - use Git to review your project's history
+  - handle Git auto-merge commit messages
 
 ## Resources
 Use these resources (and others you find) to learn the capabilities above! There will be other capabilities in the resources - focus on learning the capabilities above, you'll learn the rest when you need it.
 - [Git beginners steps part 2 (Interactive)](/resources/git-basics-INTERACTIVE)
+- [Git merge messages (ARTICLE)](/resources/git-merge-message-ARTICLE)
 - [Github Pull, Branch, Merge (Video)](/resources/github-pull-branch-merge-team-VIDEO)
 - [GitHub/Git glossary (Text)](/resources/git-glossary-TEXT)
 - [How to write a Git commit message (Article)](/resources/git-commit-messages-ARTICLE)
