@@ -1,13 +1,9 @@
 # Site planning and Wireframing Tutorial
 
 ## Overview
-[Process is important](../design-process-ARTICLE) In this tutorial you will develop a site plan and wireframes for your Dev Academy website.
+[Process is important](../design-process-ARTICLE). In this tutorial you will develop a site plan and wireframes for your Dev Academy website.
 
 ## Site plan
-Your website will become a collection of your Dev Academy work. Initally it will feature a blog, a profile and links to projects, but as you progress, you can develop and transform your site in many ways see student blog examples (below)
-
-Think about the purpose of your website and who you want to visit it. Potential employers will often seek out a candidates online profile and blogs to learn a little about your process and your experiences. Do you want to be designing your site with this in mind? Or do you want to use it simply as a means to complete your assignments.
-
 Your website will have many directories, many html files and possibly (if your website were to become large) a few CSS files.
 A visitor to your site will view these files through the browsers URL.
 
