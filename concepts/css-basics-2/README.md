@@ -19,11 +19,9 @@ You are comfortable with
 - px, ems, rems
 
 ## Resources
-Needs more resources!
-- [CSS intro (Video)](/resources/css-intro-VIDEO/README.md)
-- [CSS fundementals (Article)](/resources/css-fundamentals-ARTICLE)
+- [CSS Basics 2 (Interactive)](/resources/css-basics-CODEACADEMY-TUTORIAL)
 - [CSS positioning demo/tutorial (Interactive)](http://codepen.io/bthehuman/pen/BNraLo)
+- [CSS flex-box (Article)](/resources/css-flexbox-ARTICLE)
+- [CSS (Guidelines)](/resources/css-style-GUIDELINES)
 
-## Further study
-- [HTML Code Academy CSS Basics](https://www.codecademy.com/learn/webhttps://www.codecademy.com/courses/web-beginner-en-TlhFi/0/1?curriculum_id=50579fb998b470000202dc8b)
 
