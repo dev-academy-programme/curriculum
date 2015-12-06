@@ -2,8 +2,9 @@
 
 ## Overview
 Writing tidy code is like doing your dishes after you cook. If you don't do the dishes, they'll stack up, get mouldy, start smelling. When you or someone else needs to cook again, it'll be a painful - and necessary - process to do all the old dishes before you cook something new.  
-Don't leave a costly mess.  
-Leave an inviting clean bench for others and your future self!
+
+> Technical Debt is a wonderful metaphor developed by Ward Cunningham to help us think about this problem. In this metaphor, doing things > the quick and dirty way sets us up with a technical debt, which is similar to a financial debt. Like a financial debt, the technical 
+> debt incurs interest payments, which come in the form of the extra effort that we have to do in future development because of the quick > and dirty design choice. 
 
 ## Prerequisites
 None
@@ -16,11 +17,16 @@ You are comfortable:
 - Following styleguides
 
 ## Resources
-
-- [Validate HTML](resources/html-validation-TUTORIAL)
+- [Pay off your technical debt (Article)](http://blog.codinghorror.com/paying-down-your-technical-debt/)
+- [CSS Style guide](/resources/css-style-GUIDELINES)
+- [Validate HTML](/resources/html-validation-TUTORIAL)
 - [Validate CSS](https://jigsaw.w3.org/css-validator/)
-- [Google HTML & CSS styleguide](resources/html-css-google-styleguide-ARTICLE)
 - [Formatting & Indenting Your HTML](resources/html-formatting-ARTICLE)  
+
+## Further reading 
+- [What is technical debt (Article)](https://medium.com/@joaomilho/festina-lente-e29070811b84#.7jprx1cdr)
+- [Escaping technical debt through Agile (Article)](https://www.atlassian.com/agile/technical-debt/)
+- [Google HTML & CSS styleguide](resources/html-css-google-styleguide-ARTICLE)
 
 Some styleguides will differ in opinion on topics. The one thing they all agree on is the importance of consistency.  
 Google styleguide's parting words:
