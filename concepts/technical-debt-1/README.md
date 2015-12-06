@@ -11,7 +11,6 @@ None
 You are comfortable:
 
 - **Perfectly** indenting all your code
-- Using HTML elements semantically
 - Validating your code with:
   - Online tools
   - Linters
