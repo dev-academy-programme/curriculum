@@ -23,6 +23,7 @@ Its good to ask yourself
   4. Think about your target audience. What are their interests and how do you see your site addressing them?
   5. How do you think most users will find your site?
   6. What is the primary "action" the user should take when coming to your site? Do you want them to search for information, contact you, or see your portfolio? It's ok to have several actions at once, or different actions for different kinds of visitors.
+
 <!-- DBC end -->
 
 #### Phase 2: Planning
@@ -58,8 +59,6 @@ Its good to ask yourself
 - Fix bugs
 - future maintenance
 
-<<<<<<< HEAD
-=======
 ## Designing your github.io website
 You're website will become a collection of your Dev Academy work. You can take you're website in many directions, but to begin it will require pages for your profile, blog and projects.
 
@@ -80,14 +79,13 @@ Its good to ask yourself
 ## Student blog examples
 
 
-[Raza DBC](http://sjafri5.github.io/)
-[Nick's blog (EDA)](http://widdersh.in/)
-[Eugene's blog turned into an online portfolio (EDA)](http://euglazer.github.io/)
-[Jasmine (EDA)](http://jasminmayfield.github.io/)
-[Oli Treadwell turned his blog into a full website and purchased his own domain name (DBC)](http://www.olitreadwell.com/posts/)
-[Caroline (DBC) who also purchased her own domain name](http://car.oline.codes/)
-[Andrew's (DBC)](http://omgmakeme.github.io/index.html)
-[Fabi Castillo (DBC)](http://fab9.github.io/)
-[Beth Makes (DBC)](http://cynaria.github.io/)
-[Amelia (EDA)](http://amelialaundy.github.io/)
->>>>>>> fff722888bec99c2cd58f6ec342cc9916f1c08f0
+[Raza DBC](http://sjafri5.github.io/)  
+[Nick's blog (EDA)](http://widdersh.in/)  
+[Eugene's blog turned into an online portfolio (EDA)](http://euglazer.github.io/)  
+[Jasmine (EDA)](http://jasminmayfield.github.io/)  
+[Oli Treadwell turned his blog into a full website and purchased his own domain name (DBC)](http://www.olitreadwell.com/posts/)  
+[Caroline (DBC) who also purchased her own domain name](http://car.oline.codes/)  
+[Andrew's (DBC)](http://omgmakeme.github.io/index.html)  
+[Fabi Castillo (DBC)](http://fab9.github.io/)  
+[Beth Makes (DBC)](http://cynaria.github.io/)  
+[Amelia (EDA)](http://amelialaundy.github.io/)  
