@@ -11,9 +11,7 @@ None
 You are comfortable:
 
 - **Perfectly** indenting all your code
-- Validating your code with:
-  - Online tools
-  - Linters
+- Validating your HTML and CSS
 - Following styleguides
 
 ## Resources
