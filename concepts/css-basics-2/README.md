@@ -22,6 +22,7 @@ You are comfortable with
 Needs more resources!
 - [CSS intro (Video)](/resources/css-intro-VIDEO/README.md)
 - [CSS fundementals (Article)](/resources/css-fundamentals-ARTICLE)
+- [CSS positioning demo/tutorial (Interactive)](http://codepen.io/bthehuman/pen/BNraLo)
 
 ## Further study
 - [HTML Code Academy CSS Basics](https://www.codecademy.com/learn/webhttps://www.codecademy.com/courses/web-beginner-en-TlhFi/0/1?curriculum_id=50579fb998b470000202dc8b)
