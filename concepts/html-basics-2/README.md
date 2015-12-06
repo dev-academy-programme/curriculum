@@ -1,7 +1,7 @@
 # HTML Basics Part 2
 
 ## Overview
-HTML
+Know how to convert a wireframe into an HTML file with correct use of common HTML elements.
 
 ## Prerequisites
 [HTML Basics Part 1](concepts/html-basics-1)
@@ -33,25 +33,4 @@ You are comfortable with:
 
 ## Further study
 - [HTML Code Academy HTML Basics](https://www.codecademy.com/learn/web)
-- 
 
-
-##### UDACITY COURSE
->interview with front end web developer
->Boxes (moving analogy)
-> Has small exercises (voluntary)
-
-LINKING CSS SHEET [1.37](https://www.udacity.com/course/viewer#!/c-ud304/l-2617868617/e-2599208804/m-2603798584)
-Their css is not in a directory
-
-- Using developer tools (inspector) to identify page structure and elements
-- Understanding the DOM
-- Describing the difference between HTML and CSS
-- Box model (margin, border, padding, content)
-- Boxes, Grids and Rules
-- Boxifying Design
-- Flexbox
-- Using Developer Mozilla documentation
-- Using semantic tags
-- Adding images
-- CSS Validation
