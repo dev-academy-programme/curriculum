@@ -14,7 +14,7 @@ This runs the server on port 3000, so you'll have to access it with `http://loca
 Here's what the web server looks like when you start it up and request the page:
 
 <figure>
-  <img src="../images/python-web-server.png" alt="Web server"><br>
+  <img src="./images/python-web-server.png" alt="Web server"><br>
   <figcaption>
     <p><strong>Figure 2:</strong> The python web server</p>
   </figcaption>
@@ -26,7 +26,7 @@ When you test your pages, you'll always want to run some kind of web server. The
 We've installed the Document Outliner tool in Chrome, and it gives you a nice idea of the structure of your page. Check this out:
 
 <figure>
-  <img src="../images/document-outliner.png" alt="Document outliner"><br>
+  <img src="./images/document-outliner.png" alt="Document outliner"><br>
   <figcaption>
     <p><strong>Figure 3:</strong> The HTML5 Document Outliner at work</p>
   </figcaption>
@@ -38,7 +38,7 @@ Just click on that outline icon to see it.
 Use the Web Developer Tools extension in Chrome:
 
 <figure>
-  <img src="../images/web-dev-tools.png" alt="Web developer tools"><br>
+  <img src="./images/web-dev-tools.png" alt="Web developer tools"><br>
   <figcaption>
     <p><strong>Figure 4:</strong> Validate Local HTML in the Web Developer Tools tab</p>
   </figcaption>
@@ -47,7 +47,7 @@ Use the Web Developer Tools extension in Chrome:
 If you click on "Validate Local HTML", you should get this kind of output:
 
 <figure>
-  <img src="../images/validator-output.png" alt="No HTML errors"><br>
+  <img src="./images/validator-output.png" alt="No HTML errors"><br>
   <figcaption>
     <p><strong>Figure 5:</strong> Output of the W3C HTML validator</p>
   </figcaption>
