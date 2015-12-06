@@ -17,7 +17,7 @@ With Chrome dev tools, you are comfortable:
  - navigating the DOM
 
 ## Resources
-- This concept is coupled with the Udacity HTML and CSS assignment - during which you are asked to [sign up to Udacity and complete lesson 1 of the HTML and CSS course](https://www.udacity.com/course/intro-to-html-and-css--ud304)
+- This concept is resourced by material in the **Udacity HTML and CSS assignment in your waffle board** ([Lesson 1 of Udacity Intro to HTML and CSS](https://www.udacity.com/course/intro-to-html-and-css--ud304), but go to the assignment before you do it!)
 
 
 ## Further Study
