@@ -6,10 +6,10 @@ Having a process and a plan of action is important when developing websites and 
 Its up to you to understand the importance of process, experiment a bit and to develop your own.
 
 ### A Typical process:
-Below is an example of a design and development process. Your initial `username.github.io` website won't require such in depth analysis, planing and design, but as the course continues you'll need to have a good understanding of process and begin applying it to your projects.
+Below is an example of a design and development process. Your initial `username.github.io` website won't require such in depth analysis but as the course continues you'll need to have a good understanding of process and begin applying it to your projects.
 
 
-#### Phase 1: Analysis and information gathering.
+#### Phase 1: Analysis and information gathering
 - Website purpose
 - Website goals
 - Target audience
@@ -49,7 +49,7 @@ Below is an example of a design and development process. Your initial `username.
 - future maintenance
 
 ## Designing your github.io website
-You're website will become a collection of your Dev Academy work. You can take you're website in many directions, but to begin it will require pages for your profile, blog and projects. As the course goes on, you can apply the techniques that you learn to turn your website into anything you wish. Some transform them into an online portfolio / CV's. Some purchase their own domain names to personalise their site, while many simply continue to track their journey through the writing of their blogs.
+You're website will become a collection of your Dev Academy work. You can take you're website in many directions, but to begin it will require pages for your profile, blog and projects. 
 
 Think about the purpose of your website and who you want to visit it. Potential employers will often seek out a candidates online profile and blogs to learn a little about your process and your experiences. Do you want to be designing your site with this in mind? Or do you want to use it simply as a means to complete your assignments.
 
@@ -68,14 +68,13 @@ Its good to ask yourself
 ## Student blog examples
 
 
-[Raza DBC](http://sjafri5.github.io/)
-[Nick's blog (EDA)](http://widdersh.in/)
-[Eugene's blog turned into an online portfolio (EDA)](http://euglazer.github.io/)
-[Jasmine (EDA)](http://jasminmayfield.github.io/)
-[Oli Treadwell turned his blog into a full website and purchased his own domain name (DBC)](http://www.olitreadwell.com/posts/)
-[Caroline (DBC) who also purchased her own domain name](http://car.oline.codes/)
-[Andrew's ](http://omgmakeme.github.io/index.html)
-]
-[Fabi Castillo (DBC)](http://fab9.github.io/)
-[Beth Makes (DBC)](http://cynaria.github.io/)
-[Amelia (EDA)](http://amelialaundy.github.io/)
+[Raza DBC](http://sjafri5.github.io/)  
+[Nick's blog (EDA)](http://widdersh.in/)  
+[Eugene's blog turned into an online portfolio (EDA)](http://euglazer.github.io/)  
+[Jasmine (EDA)](http://jasminmayfield.github.io/)  
+[Oli Treadwell turned his blog into a full website and purchased his own domain name (DBC)](http://www.olitreadwell.com/posts/)  
+[Caroline (DBC) who also purchased her own domain name](http://car.oline.codes/)  
+[Andrew's (DBC)](http://omgmakeme.github.io/index.html)  
+[Fabi Castillo (DBC)](http://fab9.github.io/)  
+[Beth Makes (DBC)](http://cynaria.github.io/)  
+[Amelia (EDA)](http://amelialaundy.github.io/)  
