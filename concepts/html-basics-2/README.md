@@ -27,10 +27,13 @@ You are comfortable with:
 - Comments
 
 ## Resources
-- [HTML intro - how to setup an HTML index page (Video)](/resources/html-intro-index-page-tags-VIDEO)
-- [HTML fundamentals (Article)](/resources/html-fundamentals-TUTORIAL)
-- [HTML index.html template example](/resources/html-template-EXAMPLE)
+- [HTML basics (Interactive)](/resources/html-basics-CODEACADEMY-TUTORIAL)
+- [HTML4 and HTML5 (Cheatsheets)](/resources/html-css-CHEATSHEETS)
+- [Learn to Code HTML and CSS (Article)](/esources/html-css-learn-to-code-TUTORIAL)
+- [Sections and Outlines (Article)](/resources/html5-structure-outlines-ARTICLE)
+- [Sectioning HTML elements](/resources/html5-sectioning-elements-FLOWCHART)
+- [Validating your HTML (Tutorial)](/resources/html-validation-TUTORIAL)
 
 ## Further study
-- [HTML Code Academy HTML Basics](https://www.codecademy.com/learn/web)
+- [Learn web design (book)](https://github.com/dev-academy-programme/curriculum/tree/master/resources/html-css-duckett-BOOK)
 
