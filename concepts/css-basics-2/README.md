@@ -14,16 +14,8 @@ You are comfortable with
 - selectors
   - classes vs ids
   - HTML tags
-- the box model
-  - margin
-  - border
-  - padding
-  - content
-- positioning
-  - static
-  - relative
-  - fixed
-  - absolute
+- the box model (margin, border, padding, content)
+- positioning (static, relative, fixed, absolute)
 - px, ems, rems
 
 ## Resources
