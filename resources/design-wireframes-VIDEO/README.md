@@ -1,5 +1,5 @@
 # Introduction to basic Wireframes (EXTERNAL)
-[What is a wireframe video](https://www.youtube.com/watch?v=T0vt3nLZKks)
+[How to Wireframe](https://www.youtube.com/watch?v=T0vt3nLZKks) (6 min)
 
 ## Overview
 The how and why of creating a visual representation of elements on a website.
