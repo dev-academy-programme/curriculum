@@ -44,7 +44,7 @@ You will want to create a site map for your website. Don't worry about the desig
 ## Create your wireframes
 For each part of your website you will want a wireframe to describe the visual layout. Try to do these by hand.
 
-- [ ] Watch this quick [video on wireframes](../design-wireframes-ARTICLE)
+- [ ] Watch this quick [video on wireframes](../design-wireframes-VIDEO)
 - [ ] Wireframe your index page (save as wireframe-index-page)
 - [ ] Wireframe your blog index page  (save as wireframe-blog-index)
 - [ ] Wireframe your blog posts template (save as wireframe-blog-template)
