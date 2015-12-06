@@ -23,7 +23,9 @@ For example:
 ## Create a site map
 - [ ] Draw a sitemap for your website
 
-You will want to create a site map for your website. Don't worry about the design, you'll do this in the wireframe section. <!--DBC start--> For now, your site map will probably be really simple -- an index page with a few supplemental pages. But as you expand your portfolio and grow your site, you may find yourself adding more and more pages. The great thing about a site map is that it can grow and change with your website. We recommend you draw the map on paper, though you are also welcome to use tools such as Adobe Photoshop, [WriteMaps](https://www.writemaps.com/), or [Slickplan](http://slickplan.com/). **Don't spend too much time on this. Timebox 20 minutes max**
+You will want to create a site map for your website. Don't worry about the design, you'll do this in the wireframe section. 
+<!-- DBC start --> 
+For now, your site map will probably be really simple -- an index page with a few supplemental pages. But as you expand your portfolio and grow your site, you may find yourself adding more and more pages. The great thing about a site map is that it can grow and change with your website. We recommend you draw the map on paper, though you are also welcome to use tools such as Adobe Photoshop, [WriteMaps](https://www.writemaps.com/), or [Slickplan](http://slickplan.com/). **Don't spend too much time on this. Timebox 20 minutes max**
 
 <figure>
   <img src="./images/sitemap.png" alt="site map"><br>
