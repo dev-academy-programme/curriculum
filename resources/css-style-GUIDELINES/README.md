@@ -1,4 +1,4 @@
-# CSS Guidelines **Highly recommended** (EXTERNAL)
+# CSS Guidelines - **highly recommended** (EXTERNAL)
 [CSS guidelines](http://cssguidelin.es/#the-importance-of-a-styleguide)
 
 ## Overview
