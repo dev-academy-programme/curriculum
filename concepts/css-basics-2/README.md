@@ -4,8 +4,8 @@
 Let's explore some more essential CSS tools
 
 ## Prerequisites
-- [HTML Basics 1](concepts/html-basics-1)
-- [CSS Basics 1](concepts/css-basics-1)
+- [HTML Basics 1](/concepts/html-basics-1)
+- [CSS Basics 1](/concepts/css-basics-1)
 
 ## Capabilities
 You are comfortable with
