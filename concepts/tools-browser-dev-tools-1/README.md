@@ -17,9 +17,9 @@ With Chrome dev tools, you are comfortable:
  - navigating the DOM
 
 ## Resources
-Needs resources!
-* [link-name](link.com)
+- This concept is coupled with the Udacity HTML and CSS assignment - during which you are asked to [sign up to Udacity and complete lesson 1 of the HTML and CSS course](https://www.udacity.com/course/intro-to-html-and-css--ud304)
+
 
 ## Further Study
 
-* [link-name](link.com)
+* [Intermediate Dom Concepts](https://www.youtube.com/watch?v=Z3HGJsNLQ1E) (CSS coding, CSS Debugging and CSS Troubleshooting with Chrome Dev Tools.)
