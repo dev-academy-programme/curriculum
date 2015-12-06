@@ -10,9 +10,8 @@ Once you have an account, you can create your first repository. Then we'll clone
 
 # GitHub workflow:
 This is an example of how you will be interacting with GitHub each week.
-
+<!--
 ### Working on master
-
 - [Create a git <abbr title="repository">repo</abbr> on Github](#step-1-create-a-repo)  
 - [Clone it down](#step-3-clone-your-repo-to-workspace)  
 - [Make changes](#step-4-create-a-new-file-in-your-directory)  
@@ -30,7 +29,7 @@ This is an example of how you will be interacting with GitHub each week.
 
 Another person
 - [Review pull request](#step-14-review-a-pull-request)
-
+-->
 
 ### You will learn how to
 * Create a standard workspace directory (A folder which will hold all of your EDA repositories)
@@ -50,7 +49,7 @@ Set the Repository name to `sprint-1` (or the equivalent e.g. `sprint-2` if you 
 Then click that big green `Create repository` button. C'mon. You know you want to.
 
 <figure>
-  <img src="images/make-repo.png" alt="Making a GitHub repository"><br>
+  <img src="./images/make-repo.png" alt="Making a GitHub repository"><br>
   <figcaption>
     <p><strong>Figure 1:</strong> Creating a new GitHub git repository</p>
   </figcaption>
@@ -60,7 +59,7 @@ Great. You've got a repo! Now we need to clone our repo into your working folder
 You should see an "Https clone URl" to the right of your newly cloned repo (image below). Click that little clipboard button to copy the URL of the repository to your clipboard.
 
 <figure>
-  <img src="images/clipboard-button.png" alt="GitHub clone link to clipboard button"><br>
+  <img src="./images/clipboard-button.png" alt="GitHub clone link to clipboard button"><br>
   <figcaption>
     <p><strong>Figure 2:</strong> Click on that clipboard to copy the clone URL to your clipboard!</p>
   </figcaption>
@@ -396,8 +395,6 @@ I can comment on the request (and conduct a discussion with the person who made 
 
 And that's all there is to forking and pull requests. You'll be using them a lot.
 
-# Code reviews
 
-# Engineering empathy - reflection workflow
 
 
