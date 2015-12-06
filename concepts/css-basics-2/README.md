@@ -19,6 +19,7 @@ You are comfortable with
 - px, ems, rems
 
 ## Resources
+Needs more resources!
 - [CSS intro (Video)](/resources/css-intro-VIDEO/README.md)
 - [CSS fundementals (Article)](/resources/css-fundamentals-ARTICLE)
 
