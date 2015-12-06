@@ -45,9 +45,9 @@ So we can move multiple folders at once by stringing them together with /:
   </figcaption>
 </figure>
 
-Here we went down into the `workspace` folder (which is a sub-folder in the current folder), then back up two folders to the parent of the current folder, and then back into the current folder. Which leaves us . . . right back where we started! Why would we do this? We wouldn't. It's pointless.
+Here we went down into the `workspace` folder (which is a sub-folder in the current folder), then back up two folders to the parent of the current folder, and then back into the current folder. Which leaves us... right back where we started! Why would we do this? We wouldn't. It's pointless.
 
-But nevertheless there *is* a point here, which is that we can combine folder names and .. to move all through the folder hierarchy with a single command. Now let's `cd` into our `workspace` folder. This is where you'll do all your work for this course. Keep it all here.
+But nevertheless there *is* a point here, which is that we can combine folder names and `..` to move all through the folder hierarchy with a single command. Now let's `cd` into our `workspace` folder. This is where you'll do all your work for this course. Keep it all here.
 
 <figure>
   <img src="images/cd-workspace.png" alt="Change directory to workspace"><br>
