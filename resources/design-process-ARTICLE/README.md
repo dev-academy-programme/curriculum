@@ -16,7 +16,7 @@ Below is an example of a design and development process. Your initial `username.
 - Brain storm
 
 <!-- DBC start -->
-Its good to ask yourself
+It is good to ask yourself:
   1. What is your site's primary goal or purpose?
   2. What kind of content will your site feature?
   3. What is the best way to share that content with users?
@@ -42,39 +42,31 @@ Its good to ask yourself
 - Optimized for visitors and SEO
 
 #### Phase 5: Development
-- Create website using
+- Build website/webapp with
   - HTML
   - CSS
-  - databases
-  - other technologies
-  - responsiveness
+  - Javascript
+  - Git + GitHub
+  - A database
+  - Hosting services
 
 #### Phase 6: Testing
-- technical testing (test features, code and scripts)
+- Technical testing (test features, code and scripts)
 - Browser compatibility
-- Ask " Does the website fulfill its purpose"
+- Ask "Does the website fulfill its purpose?"
 
 #### Phase 7: Deployment
 - Monitor
 - Fix bugs
-- future maintenance
+- Future maintenance
+
+#### Phase 8: Iterate
+- Iterate phases 3-7 as business needs change and feature additions and changes are required
 
 ## Designing your github.io website
 You're website will become a collection of your Dev Academy work. You can take you're website in many directions, but to begin it will require pages for your profile, blog and projects.
 
-Think about the purpose of your website and who you want to visit it. Potential employers will often seek out a candidates online profile and blogs to learn a little about your process and your experiences. Do you want to be designing your site with this in mind? Or do you want to use it simply as a means to complete your assignments.
-
-<!-- DBC Start -->
-
-Its good to ask yourself
-  1. What is your site's primary goal or purpose?
-  2. What kind of content will your site feature?
-  3. What is the best way to share that content with users?
-  4. Think about your target audience. What are their interests and how do you see your site addressing them?
-  5. How do you think most users will find your site?
-  6. What is the primary "action" the user should take when coming to your site? Do you want them to search for information, contact you, or see your portfolio? It's ok to have several actions at once, or different actions for different kinds of visitors.
-
-<!-- DBC end -->
+Think about the purpose of your website and who you want to visit it. Potential employers will often seek out a candidates online profile and blogs to learn a little about your process and your experiences. Do you want to be designing your site with this in mind? Or do you want to use it simply as a means to complete your assignments?
 
 ## Student blog examples
 
