@@ -1,11 +1,11 @@
-# Design and Development process
+# Design and Development Process
 
 ## Overview
-Having a process and a plan of action is important when developing websites and web applications. Each designer / developer / agency will have a unique take on the design process, but most use combination of the same phases and or elements.
+Having a process and a plan of action is important when developing websites and web applications. Each designer / developer / agency will have a unique take on the design process, but most use similar phases and elements.
 
-Its up to you to understand the importance of process, experiment a bit and to develop your own.
+It's up to you to understand the importance of process, experiment a bit and develop your own.
 
-### A Typical process:
+### A typical process:
 Below is an example of a design and development process. Your initial `username.github.io` website won't require such in-depth analysis, planning and design, but as the course continues you'll need a good understanding and application of process when designing your web projects.
 
 
@@ -16,7 +16,7 @@ Below is an example of a design and development process. Your initial `username.
 - Brain storm
 
 <!-- DBC start -->
-Its good to ask yourself
+It is good to ask yourself:
   1. What is your site's primary goal or purpose?
   2. What kind of content will your site feature?
   3. What is the best way to share that content with users?
@@ -42,20 +42,23 @@ Its good to ask yourself
 - Optimized for visitors and SEO
 
 #### Phase 5: Development
-- Create website using
+- Build website/webapp with
   - HTML
   - CSS
-  - databases
-  - other technologies
-  - responsiveness
+  - Javascript
+  - Git + GitHub
+  - A database
+  - Hosting services
 
 #### Phase 6: Testing
-- technical testing (test features, code and scripts)
+- Technical testing (test features, code and scripts)
 - Browser compatibility
-- Ask " Does the website fulfill its purpose"
+- Ask "Does the website fulfill its purpose?"
 
 #### Phase 7: Deployment
 - Monitor
 - Fix bugs
-- future maintenance
+
+#### Phase 8: Iterate
+- Iterate phases 3-7 as business needs change and feature additions and changes are required
 
