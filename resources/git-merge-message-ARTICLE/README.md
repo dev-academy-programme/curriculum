@@ -6,10 +6,10 @@ You may do a `git pull` and **end up stuck in a text editor!**.
 Here's why, and how to get out of it.
 
 If you:
-- `git pull` changes, **and**
-- the remote (GitHub) has new changes, **and**
-- the local (your machine) also has new changes, **and**
-- the changes in the remote and the local versions are automatically mergeable, **then**
+- `git pull` changes, **and**  
+- the remote (GitHub) has new changes, **and**  
+- the local (your machine) also has new changes, **and**  
+- the changes in the remote and the local versions are automatically mergeable, **then**  
 
 1. Git will merge both versions into a new version, stage the new version, and generate an auto commit message.
 2. Git will open the automatic commit message in the default Git text editor. You don't need to add anything.  
