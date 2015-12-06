@@ -4,15 +4,13 @@
 [Process is important](../design-process-ARTICLE). In this tutorial you will develop a site plan and wireframes for your Dev Academy website.
 
 ## Site plan
-Your website will have many directories, many html files and possibly (if your website were to become large) a few CSS files.
+Your website will have many directories, many html files and perhaps later a few CSS files.
 A visitor to your site will view these files through the browsers URL.
 
 For example:
 
 - `username.github.io/index.html` (your home page)
-- `username.github.io/blog/index.html` (the directory of your blogs)
-- `username.github.io/blog/a-blog-you-wrote.html` ((a blog that you wrote)
-  
+- `username.github.io/blog/a-blog-you-wrote.html` (a blog that you wrote)
 
 <figure>
   <img src="./images/site-planning.jpg" alt="planning your github.io website"><br>
@@ -40,9 +38,9 @@ You will want to create a site map for your website. Don't worry about the desig
 ## Create your wireframes
 For each part of your website you will want a wireframe to describe the visual layout. Try to do these by hand.
 
-- [ ] Watch this quick [video on wireframes](../design-wireframes-VIDEO)
+- Watch this quick [video on wireframes](../design-wireframes-VIDEO)
+- Get inspired by [CSS Zen Garden](../css-zen-garden-DEMO)
 - [ ] Wireframe your index page (save as wireframe-index-page)
-- [ ] Wireframe your blog index page  (save as wireframe-blog-index)
 - [ ] Wireframe your blog posts template (save as wireframe-blog-template)
 
 <!-- DBC start -->
@@ -55,23 +53,16 @@ The index is the homepage of your site. It's the page you will land on if you ty
 
   - Links to your social networks (Twitter, Facebook, LinkedIn, Quora, GitHub etc.)
   - Link to your contact information
-  - Link to your blog/index.html page (this is where your links will be displayed)
   - Link to "About me"
   - Link to "Your projects"
   - Your picture
 
-
-If your completing the wireframe assignment you will need to upload your wireframe to the directory specified in the assignment. Remember, wireframes don't need to be beautiful, they can be very simple as long as they get the idea of what you want your site to look like. Don't worry about actually creating any of these pages using HTML yet. You'll do that later.
+If you are completing the wireframe assignment you will need to upload your wireframe to the directory specified in the assignment. Remember, wireframes don't need to be beautiful, they can be very simple as long as they get the idea of what you want your site to look like. Don't worry about actually creating any of these pages using HTML yet. You'll do that later.
 
 - [ ] **Save an image of your index page wire frame as `wireframe-index-page` (it can be saved as png, jpg, etc.)**
 
-### 2. Wireframe your `blog/index.html`
-When people navigate to your blog from the main index of your `username.github.io site`, you will want them to see a list of your blog posts (not the posts themselves -- in some cases that would probably be ideal, but too tricky intially). This will be located at: `username.github.io/blog/index.html`
-
-- [ ] **Save an image of your blog index wireframe as `wireframe-blog-index`**
-
-### 3. Wireframe your blog posts
-If you looked at your blog from week 1 on GitHub, it probably didn't strike you as particularly pretty, so you'll also want to consider how you will want each of your posts to look. How do you want to integrate them with your main site?
+### 2. Wireframe your blog posts
+How do you want to integrate them with your main site?
 
 - [ ] **Design a wireframe for an individual post. You'll create the CSS to do this in a later assignment.**
 - [ ] **Save an image of your blog wireframe-blog-template**
