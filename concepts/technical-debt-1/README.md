@@ -3,7 +3,7 @@
 ## Overview
 Writing tidy code is like doing your dishes after you cook. If you don't do the dishes, they'll stack up, get mouldy, start smelling. When you or someone else needs to cook again, it'll be a painful - and necessary - process to do all the old dishes before you cook something new.  
 
-> Technical Debt is a wonderful metaphor developed by Ward Cunningham to help us think about this problem. In this metaphor, doing things > the quick and dirty way sets us up with a technical debt, which is similar to a financial debt. Like a financial debt, the technical 
+> Technical Debt is a wonderful metaphor developed by Ward Cunningham to help us think about this problem. In this metaphor, doing things the quick and dirty way sets us up with a technical debt, which is similar to a financial debt. Like a financial debt, the technical 
 > debt incurs interest payments, which come in the form of the extra effort that we have to do in future development because of the quick > and dirty design choice. 
 
 ## Prerequisites
