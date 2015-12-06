@@ -1,4 +1,4 @@
-# CSS Basics
+# CSS Basics 2
 
 ## Overview
 Let's explore some more essential CSS tools
