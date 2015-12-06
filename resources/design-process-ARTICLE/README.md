@@ -1,9 +1,9 @@
 # Design and Development process
 
 ## Overview
-Having a process and a plan of action is important when developing websites and web applications. Each designer / developer / agency will have a unique take on the design process, but most use combination of the same phases and or elements.
+Having a process and a plan of action is important when developing websites and web applications. Each designer / developer / agency will have a unique take on the design process, but most use similar phases and elements.
 
-Its up to you to understand the importance of process, experiment a bit and to develop your own.
+It's up to you to understand the importance of process, experiment a bit and to develop your own.
 
 ### A Typical process:
 Below is an example of a design and development process. Your initial `username.github.io` website won't require such in-depth analysis, planning and design, but as the course continues you'll need a good understanding and application of process when designing your web projects.
