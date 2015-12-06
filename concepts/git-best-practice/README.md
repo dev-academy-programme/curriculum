@@ -21,22 +21,22 @@ If everything seems unclear now, don't worry. Time and practice are the best way
 ## Prerequisites
 - [Command line basics](/concepts/command-line-basics)
 - GitHub account
-- [GitHub basics 1](/concepts/github-basics-1)
+- [GitHub basics 1](/concepts/github-basics)
 
 ## Capabilities
 You can use Git and Github to collaborate on projects. You can:  
   - understand local and remote repositories
   - make and push branches
-  - create 'pull requests'
+  - **create 'pull requests'**
   - write good commit messages
   - use Git to review your project's history
 
 ## Resources
 Use these resources (and others you find) to learn the capabilities above! There will be other capabilities in the resources - focus on learning the capabilities above, you'll learn the rest when you need it.
-- [Git beginners steps 9+ (Interactive)](/resources/git-basics-INTERACTIVE)
+- [Git beginners steps part 2 (Interactive)](/resources/git-basics-INTERACTIVE)
+- [Github Pull, Branch, Merge (Video)](/resources/github-pull-branch-merge-team-VIDEO)
 - [GitHub/Git glossary (Text)](/resources/git-glossary-TEXT)
 - [How to write a Git commit message (Article)](/resources/git-commit-messages-ARTICLE)
-- [GitHub Tutorial for beginners (Video / Code)](/resources/github-basics-for-beginners-VIDEO)  
 - [Git for beginners (Article)](/resources/git-basics-ARTICLE)
 - [Example github workflows and common errors (Text/Tutorial)](/resources/github-phase-0-workflow-TUTORIAL)
 
