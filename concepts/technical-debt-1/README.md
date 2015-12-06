@@ -2,7 +2,8 @@
 
 ## Overview
 Writing tidy code is like doing your dishes after you cook. If you don't do the dishes, they'll stack up, get mouldy, start smelling. When you or someone else needs to cook again, it'll be a painful - and necessary - process to do all the old dishes before you cook something new.  
-Don't leave a costly mess - leave an inviting clean bench.
+Don't leave a costly mess.  
+Leave an inviting clean bench for others and your future self!
 
 ## Prerequisites
 None
