@@ -4,7 +4,7 @@
 Know how to convert a wireframe into an HTML file with correct use of common HTML elements.
 
 ## Prerequisites
-[HTML Basics Part 1](concepts/html-basics-1)
+[HTML Basics Part 1](/concepts/html-basics-1)
 
 ## Capabilities
 You are comfortable with:
