@@ -16,7 +16,8 @@ You are comfortable:
 
 ## Resources
 
-- [link-name](link.com)
+- [Validate HTML](resources/html-validation-TUTORIAL/README.md)
+- [Validate CSS]()
 
 ## Further Study
 
