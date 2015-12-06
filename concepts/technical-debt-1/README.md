@@ -10,7 +10,7 @@ None
 You are comfortable:
 
 - **Perfectly** indenting all your code
-- Validating all your code with:
+- Validating your code with:
   - Online tools
   - Linters
 
@@ -21,5 +21,5 @@ You are comfortable:
 
 ## Further Study
 
-- [link-name](link.com)
+- [Importance of code indentation](http://mrbool.com/importance-of-code-indentation/29079)
 
