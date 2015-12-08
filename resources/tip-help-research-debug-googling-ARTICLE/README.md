@@ -41,7 +41,7 @@ Using the right words in Google is essential.  You should play with this as you 
 Questions you should ask yourself to find keywords are:
 
 1. What tech are you using? (HTML, CSS, JS, etc)
-2. Are you using a framework (Rails), library (jQuery), gem (Jekyll), or specific technique (Object-oriented)?
+2. Are you using a library (jQuery) or specific technique (Object-oriented)?
 3. What are you trying to accomplish? (Position div in center? Return a string in JS?)
 4. Are there other or generic terms for anything? (i.e. "element" instead of "div"; "class" instead of "object")
 
