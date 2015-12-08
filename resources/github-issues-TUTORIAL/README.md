@@ -14,7 +14,7 @@ Follow the [create an issue guide](https://help.github.com/articles/creating-an-
 
 **Please provide a hyperlink OR screenshot when submitting an issue.** For example if you were to see a typo in `github.com/dev-academy-programme/curriculum/resource/git-hub-intro` please copy that URL and past it into issues. 
 
-**Unfortunatley issues can not be made on assignment waffle tickets. If there you think the assignment instructions need clarification, are incomplete, have typos or broken links, please slack us with the hashtag #waffleissue. Thanks!** 
+**Unfortunatley issues can not be made on assignment waffle tickets. If you think the assignment instructions need clarification, are incomplete, have typos or broken links, please slack us. Write us a description, hashtag it with #waffleissue and tag an EDA facilitator. Thanks!** 
 
 Using issues will prepare you to contribute to the wonderful open source world.
 
