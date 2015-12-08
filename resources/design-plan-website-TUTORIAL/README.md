@@ -23,7 +23,8 @@ For example:
 ## Create a site map
 - [ ] Draw a sitemap for your website
 
-You will want to create a site map for your website. Don't worry about the design, you'll do this in the wireframe section. 
+You will want to create a site map for your website. Don't worry about the design, you'll do this in the wireframe section.
+
 <!-- DBC start --> 
 For now, your site map will probably be really simple -- an index page with a few supplemental pages. But as you expand your portfolio and grow your site, you may find yourself adding more and more pages. The great thing about a site map is that it can grow and change with your website. We recommend you draw the map on paper, though you are also welcome to use tools such as Adobe Photoshop, [WriteMaps](https://www.writemaps.com/), or [Slickplan](http://slickplan.com/). **Don't spend too much time on this. Timebox 20 minutes max**
 
@@ -48,7 +49,7 @@ For each part of your website you will want a wireframe to describe the visual l
 <!-- DBC start -->
 One of the first steps in creating a web page is to wireframe it. This process should also help you learn to separate different parts of a site (design vs. content, html vs. css, user interface vs. user experience) and learn the process of developing websites.
 
-**It's easy to go down a rabbit hole while wireframing, so keep it simple and timebox yourself. A Wireframe doesn't have to be perfectly neat. Try to timebox the time you spend wireframing to one hour maximum.** We recommend drawing your wireframes on paper, but you can choose to use a [wireframing tool](http://mashable.com/2010/07/15/wireframing-tools/) if you like.
+**It's easy to go down a rabbit hole while wireframing, so keep it simple and timebox yourself 1 hour maximum.** Your wireframe doesn't have to be perfectly neat. We recommend drawing your wireframes on paper, but you can choose to use a [wireframing tool](http://mashable.com/2010/07/15/wireframing-tools/) if you like.
 
 ### 1. Wireframe your index page
 The index is the homepage of your site. It's the page you will land on if you type in `**username**.github.io` into the browser so it's important it makes a good first impression. Consider how you want the index to look. You could be using this site to promote yourself when you finish Dev Academy, so at the very least, you should have a header, footer, and possibly maybe a navigation bar. You'll probably also want to include places for the some of the following:
