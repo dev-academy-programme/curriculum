@@ -1,6 +1,6 @@
 # Research, Debugging, and Google
 
-Due to the nature of software development, there are many resources and code samples available online.  You probably already know this and have used sites like [StackOverflow](http://www.stackoverflow.com).  This site (GitHub) was built to help people share code.
+Due to the nature of software development, there are many resources and code samples available online.  You probably already know this and have used sites like [StackOverflow](http://www.stackoverflow.com).  
 
 In fact, sharing code, either as an open source project or teaching through blog posts or talks, is part of the ethos of many software developers and especially within the Ruby on Rails community.
 
@@ -22,7 +22,7 @@ Programmers use the term debugging to describe trying to figure out why code isn
 
 ## Google
 
-You should try to solve a challenge or at least psuedo-code using just what you've learned and the resources we've given you.  If you get stuck or during refactoring, you can feel free to google for help. However, you should always understand the code you submit.  If you cannot describe the solution to a non-technical person, then you should not submit that code.
+Try solve a challenge or at least psuedo-code using what you've learned and the resources provided.  If you get stuck, reach out to your peers and when necessary ask google for help. Remember - you should always understand the code you submit.  If you cannot describe the solution to a non-technical person, then you should not submit that code.
 
 ## Googling Effectively
 Learning to Google effectively actually takes some practice and skill.  It's an important skill for you to learn.  There are two main times you will Google or do online research:
