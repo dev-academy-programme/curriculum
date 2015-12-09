@@ -8,6 +8,14 @@ Learning to utilize Google and find solutions online is an essential part of lea
 
 That said, it does not come without some murky ethical waters, particularly for students.
 
+## Asking good questions 
+Learning how to ask good questions is a necessary skill for success as a developer (especially at EDA). So take a bit of time to research how to ask good questions.
+
+Here are a couple resource suggestions:
+
+- [How do I ask a good question?](http://stackoverflow.com/help/how-to-ask)
+- [Writing the Perfect Question](http://web.archive.org/web/20140709094611/http://msmvps.com/blogs/jon_skeet/archive/2010/08/29/writing-the-perfect-question.aspx) *The blog post has been removed so we are using the Internet archive to get the information*
+
 ## Debugging
 
 Programmers use the term debugging to describe trying to figure out why code isn't working the way they expected it to.
@@ -64,5 +72,11 @@ Take a look at these resources as you think about online research:
 * [If you only learn one technical skill, learn this one](http://skillcrush.com/2013/04/30/if-you-learn-only-one-technical-skill-learn-this-one/)
 * [Quick Tips to make your Google Searches Smarter](http://www.themuse.com/advice/quick-tips-to-make-your-google-searches-smarter)
 * [3 Things to try when Google doesn't have the answer](http://skillcrush.com/2013/05/03/3-things-to-try-when-google-doesnt-have-the-answer/)
-.
 
+## Asking good questions 
+Learning how to ask good questions is a necessary skill for success as a developer (especially at EDA). So take a bit of time to research how to ask good questions.
+
+Here are a couple resource suggestions:
+
+- [How do I ask a good question?](http://stackoverflow.com/help/how-to-ask)
+- [Writing the Perfect Question](http://web.archive.org/web/20140709094611/http://msmvps.com/blogs/jon_skeet/archive/2010/08/29/writing-the-perfect-question.aspx) *The blog post has been removed so we are using the Internet archive to get the information*
