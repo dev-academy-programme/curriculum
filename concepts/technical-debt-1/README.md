@@ -21,7 +21,7 @@ You are comfortable:
 - [CSS Style guide](/resources/css-style-GUIDELINES)
 - [Validate HTML](/resources/html-validation-TUTORIAL)
 - [Validate CSS](https://jigsaw.w3.org/css-validator/)
-- [Formatting & Indenting Your HTML](resources/html-formatting-ARTICLE)  
+- [Formatting & Indenting Your HTML](/resources/html-formatting-ARTICLE)  
 
 ## Further reading 
 - [What is technical debt (Article)](https://medium.com/@joaomilho/festina-lente-e29070811b84#.7jprx1cdr)
