@@ -19,4 +19,4 @@ When you are comfortable with this concept you will be able to
 - Develop a basic mindfulness practice
 
 ## Resources
-- [Search Inside Yourself epub](/resources/nt-search-inside-yourself-TEXT-VIDEO)
+- [Search Inside Yourself](/resources/nt-search-inside-yourself-TEXT-VIDEO)
