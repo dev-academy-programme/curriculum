@@ -12,11 +12,11 @@ Improving your EQ is a core part EDA's holistic education. An awareness of EQ al
 
 ## Capabilities
 These capablities will be developed over the entire bootcamp - not just in this sprint.
-When you are comfortable with this concept you will be able to
-- What emotional intelligence is and how its developed
-- Understand the benefits of emotional intelligence
-- Understand techniques and practices for improving emotional intelligence
-- Develop a basic mindfulness practice
+When you are comfortable with this concept you will:
+- understand what emotional intelligence is and how its developed
+- understand the benefits of emotional intelligence
+- understand techniques and practices for improving emotional intelligence
+- have developed simple mindfulness practice
 
 ## Resources
 - [Search Inside Yourself](/resources/nt-search-inside-yourself-TEXT-VIDEO)
