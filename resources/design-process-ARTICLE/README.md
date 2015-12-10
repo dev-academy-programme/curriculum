@@ -27,7 +27,6 @@ It is good to ask yourself:
 <!-- DBC end -->
 
 #### Phase 2: Planning
-- Site map
 - Website structure
 - Technologies used
 
