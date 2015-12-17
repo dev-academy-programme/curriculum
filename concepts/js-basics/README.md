@@ -15,7 +15,7 @@ You are comfortable with:
 
 ## Resources
 - [Introduction to JavaScript video series](/resources/js-101-tutorial-series-VIDEO)
-- [Udacity (Videos)]()
+- [Udacity (Videos)](/resources/js-)
 - [Kirupa's basic JavaScript tutorial (video or tutorials)](/resources/js-basics-series-kirupa-MULTIMODAL)
 - [CodeAcademy (Interactive)]()
 
