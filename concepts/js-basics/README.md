@@ -4,24 +4,20 @@
 JavaScipt foundations
 
 ## Prerequisites
-* css basics
-* html basics
 
 ## Capabilities
-You are comfortable with
+You are comfortable with:
 
-- Variables, string, types
-- If else and comparison operators
-- Functions
-- Arrays and Loops
-- Selectors
-- Responding to User Events
-
+- variables, string, types
+- if, else and comparison operators
+- arrays and loops
+- functions
 
 ## Resources
 - [Introduction to JavaScript video series](/resources/js-101-tutorial-series-VIDEO)
+- [Udacity (Videos)]()
 - [Kirupa's basic JavaScript tutorial (video or tutorials)](/resources/js-basics-series-kirupa-MULTIMODAL)
-
+- [CodeAcademy (Interactive)]()
 
 ## Further study / Stretch
 - [Kirupa's JavaScript DOM tutorial](/resources/js-dom-kirupa-TUTORIAL)
