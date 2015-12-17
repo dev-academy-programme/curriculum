@@ -7,7 +7,8 @@ Good for:
  - practice
  - review
  - great user interface
- - clear learning objectives
+ - clear learning objectives  
+
 Not so good:
  - none
 
