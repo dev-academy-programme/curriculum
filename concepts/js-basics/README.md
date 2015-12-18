@@ -11,6 +11,7 @@ You are comfortable with:
 
 - variables, strings, numbers, types
 - arrays and object literals
+- choose and use appropriate data structures
 - if, else and comparison operators
 - loops
 - functions
