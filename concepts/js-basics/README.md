@@ -1,7 +1,9 @@
 # JavaScript Basics
 
 ## Overview
-As of 2015, Javascript is the only 'programming' language needed to develop web applications. Unlike HTML and CSS, Javascript can handle logic, data and communication, which are all needed to create useful, powerful and beautifully interactive applications.
+JavaScript is a scripting language, created for making html-pages live. It turns the web into something more powerful than just interlinked html pages.
+
+Javascript is how you can build apps that handle data, logic, interactivity and advanced connectivity - these awesome additions are the difference between a 'website' and a 'web app'.
 
 ## Prerequisites
 - None
