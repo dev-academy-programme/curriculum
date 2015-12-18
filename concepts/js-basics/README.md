@@ -1,16 +1,18 @@
 # JavaScript Basics
 
 ## Overview
-JavaScipt foundations
+As of 2015, Javascript is the only 'programming' language needed to develop web applications. Unlike HTML and CSS, Javascript can handle logic, data and communication, which are all needed to create useful, powerful and beautifully interactive applications.
 
 ## Prerequisites
+- None
 
 ## Capabilities
 You are comfortable with:
 
-- variables, string, types
+- variables, strings, numbers, types
+- arrays and object literals
 - if, else and comparison operators
-- arrays and loops
+- loops
 - functions
 
 ## Resources
