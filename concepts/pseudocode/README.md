@@ -9,6 +9,20 @@ It is a combination of human language and programming language: it mimics the sy
 
 It is important to pseudocode so that you solve the logic before getting lost in the intricacies of javascript syntax!
 
+We expect to see something like:
+```javascript
+// open the file
+  // for each line in the file:
+    // look for the word by doing this:
+      // read the character in the line
+      // if the character matches, then:
+        // if all of the following characters match,
+        // then there is a true match.
+        // remove the characters of that word
+        // insert the characters of the new word
+// then close the file.
+```
+
 ## Prerequisites
 - none
 
