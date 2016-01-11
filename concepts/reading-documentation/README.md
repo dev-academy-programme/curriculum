@@ -33,5 +33,4 @@ You are comfortable with:
 - MDN
 
 ## Further study / Stretch
-- Capability: responding to user events
-- [Kirupa's events tutorial](/resources/js-events-series-kirupa-MULTIMODAL)
+- 
