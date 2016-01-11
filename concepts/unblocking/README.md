@@ -2,7 +2,7 @@
 
 ## Overview
 ++ CHECK THIS WITH MIX/PIET/JV ++
-It's a guarantee that you'll be blocked at some point! You learn best through struggling, so this is OK
+It's a guarantee that you'll be blocked at some point! You learn best through struggling, so this is OK.
 But there are many strategies for overcoming that block. Here are some ideas, or you may develop your own. The point is that you have a methodical strategy that keeps you calm and productive, so you can avoid a black hole of frustration.
 
 One technique is rubber ducky programming, the act of verbalizing your problem, then realizing you know the answer. Read more about it here: http://www.rubberduckdebugging.com/
