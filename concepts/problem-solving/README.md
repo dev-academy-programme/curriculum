@@ -48,7 +48,6 @@ Look for line numbers in files you recognise.
 Remove your assumptions about the values of your variables - use a console.log() to inspect their value at the various stages of your code, and test the behaviour of your logic. 
 
 *Google*  
-
 Especially as a beginner, it can be hard to even verbalize what you don’t understand. Even if it seems fruitless, put together a few key words, it’s likely some answer will be returned. 
 
 For example, say you can’t figure out how to get the last element out of a javascript array. Feeling foolish, you try googling “get last thing in array javascript” - this actually returns perfectly valid results.
@@ -58,17 +57,17 @@ If you have an error message that is more specific than "undefined is not a func
 It has been said that programming is being paid to be frustrated and confused. So good luck with your problem solving!
 
 **4. Blocked?**  
-If you've been problem solving for over 15 mins and you feel like you've hit a dead end:
-1. Post a message in your cohort slack group. It's likely someone else has had and resolved a similar issue, or has the perspective, understanding or experience to help you resolve your issue.
-2. If your cohort can't help you, tag a coach in slack, we'll help you out as soon as possible.
+If you've been problem solving for over 15 mins and you feel like you've hit a dead end:  
+1. Post a message in your cohort slack group. It's likely someone else has had and resolved a similar issue, or has the perspective, understanding or experience to help you resolve your issue.  
+2. If your cohort can't help you, tag a coach in slack, we'll help you out as soon as possible.  
 
 **5. Reflect**  
-Which approaches worked well?   
+Which approaches worked well?    
 What did I get stuck on?   
-Why did it take so long to resolve a silly bug? (an oft asked question!). 
-How long did it take to isolate the bug?
-Did I stay calm? 
-Did my mindset help/hinder me?
+Why did it take so long to resolve a silly bug? (an oft asked question!).   
+How long did it take to isolate the bug?  
+Did I stay calm?  
+Did my mindset help/hinder me?  
 
 
 ## Prerequisites
@@ -83,10 +82,10 @@ You are comfortable:
  - googling for answers
 
 ## Resources
-- http://www.rubberduckdebugging.com/ ++ HOW TO MAKE RESOURCE? ++
+- http://www.rubberduckdebugging.com/
  
 
 
 ## Further Study
 
-* ++ MORE RESOURCES ++
+
