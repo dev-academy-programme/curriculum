@@ -16,39 +16,7 @@ Tips:
 - Look for code examples
 - Use page search ctrl+f/cmd+f to search keywords
 
-You've used a bunch of new tools recently - how well do you know them? Let's look at Arrays.
-
-t's invaluable to 
-This is an important skill. It is invaluable to know how to go straight to the source when you’re figuring out how to use a new array function for example. 
-
-Throughout the Udacity course, there were links to the MDN (Mozilla Developer Network) docs.
-This is a resource for developers, maintained by the community of developers and technical writers and hosting many documents on a wide variety of subjects, such as: HTML5, JavaScript, CSS, Web APIs and Node.
-
-
-
-
-
-There are a lot of answers to be found in documentation. For example, take the documentation on JS arrays: 
-
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array
-
-To test your documentation abilitites try this exercise:
-
-what single function could I use for:
-getting the last element of the array and returning it? answer = .pop()
-determining if a variable is an array or not? answer = .isArray()
-getting everything in the array and joining it all into one string? answer =.join()
-
-## Prerequisites
-None
-
-## Capabilities
-You are comfortable with:
-- scanning documentation and finding helpful information
-
 
 ## Resources
-- MDN
+- [MDN Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-## Further study / Stretch
-- 
