@@ -9,9 +9,11 @@ There are many strategies for resolving problems. The point is that you have a m
 1. Pseudocode
 2. Try something!
 3. Debug
-  - Read error message
-  - Google error message
   - Rubber ducky
+  - Read error message
+  - Console.log()
+  - Google error message
+ 
   - Isolate the bug
 4. Blocked?
     1. Ask peers on cohort slack
@@ -44,9 +46,8 @@ If you have one. Your app is trying to tell you how to fix it! Don't be intimida
 Look for line numbers in files you recognise.
 
 
-### Console.log()
-
-Still not resolved? It’s time to google.
+*Console.log()*  
+Remove your assumptions about the values of your variables - use a console.log() to inspect their value at the various stages of your code, and test the behaviour of your logic. 
 
 *Google*  
 
