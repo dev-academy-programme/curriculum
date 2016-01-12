@@ -27,7 +27,7 @@ If you don't know how to approach the problem with code, google parts of your ps
 
 Use the console in your browser to explore the behaviour of functions you think might help.
 <figure>
-  <img src="/images/consoletesting.jpg" alt="testing function behaviour in browser console"><br>
+  <img src="/images/consoletesting.png" alt="testing function behaviour in browser console"><br>
   <figcaption>
     <p><strong>Figure 1:</strong> Exploring JS behaviour in the browser console</p>
   </figcaption>
@@ -43,7 +43,7 @@ One great technique is the [rubber ducky method](http://www.rubberduckdebugging.
 If you have one. Your app is trying to tell you how to fix it! Don't be intimidated by long, complex output. Scan the output for may show you exactly what's going wrong. 
 Look for line numbers in files you recognise.
 <figure>
-  <img src="/images/errormessage.jpg" alt="example of an error message"><br>
+  <img src="/images/errormessage.png" alt="example of an error message"><br>
   <figcaption>
     <p><strong>Figure 1:</strong> An app trying to tell us it can't find a directory (amongst many other strange unrecognisable messages)</p>
   </figcaption>
