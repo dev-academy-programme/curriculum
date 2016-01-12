@@ -18,10 +18,10 @@ There are many strategies for resolving problems. The point is that you have a m
     2. Tag a coach
 4. Reflect
 
-## PseudoCode
+**1. PseudoCode**    
 First step: don't code - you'll get tied up in syntax and minor details. Work out what you actually want to do by [pseudocoding](/concepts/pseudocode). Get up. Go for a walk. Think about it.
 
-## Try Something!
+**2. Try Something!**  
 It won't work (95% of the time). Great! Some code is better than no code. Now we've got some errors (bugs) to work with. We're now in the land of 'Debugging'!
 If you don't know how to approach the problem with code, google parts of your pseudocode for ideas.
 
@@ -33,13 +33,13 @@ Use the console in your browser to explore the behaviour of functions you think 
   </figcaption>
 </figure>
 
-## Debug
+**3. Debug**  
 First, isolate what your problem is.
 
-## Rubber Ducky Method
+*Rubber Ducky Method*  
 One great technique is the [rubber ducky method](http://www.rubberduckdebugging.com/). Explain to your rubber duck: What is the problem? What do I know? What don't I know?
 
-### Read the error message 
+*Read the error message*  
 If you have one. Your app is trying to tell you how to fix it! Don't be intimidated by long, complex output. Scan the output for may show you exactly what's going wrong. 
 Look for line numbers in files you recognise.
 
@@ -48,7 +48,7 @@ Look for line numbers in files you recognise.
 
 Still not resolved? It’s time to google.
 
-## Google
+*Google*  
 
 Especially as a beginner, it can be hard to even verbalize what you don’t understand. Even if it seems fruitless, put together a few key words, it’s likely some answer will be returned. 
 
