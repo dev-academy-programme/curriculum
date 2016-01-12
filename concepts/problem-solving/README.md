@@ -77,15 +77,14 @@ None
 ## Capabilities
 You are comfortable:
 
- - with getting blocked
- - with having a strategy to unblock
- - googling for answers
+ - perservering with a tough problem  
+ - using strategies to solve a tough problem  
+ - recognising when it's time to ask for help  
 
 ## Resources
 - http://www.rubberduckdebugging.com/
  
-
-
 ## Further Study
+None  
 
 
