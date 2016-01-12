@@ -42,6 +42,12 @@ One great technique is the [rubber ducky method](http://www.rubberduckdebugging.
 *Read the error message*  
 If you have one. Your app is trying to tell you how to fix it! Don't be intimidated by long, complex output. Scan the output for may show you exactly what's going wrong. 
 Look for line numbers in files you recognise.
+<figure>
+  <img src="/images/errormessage.jpg" alt="example of an error message"><br>
+  <figcaption>
+    <p><strong>Figure 1:</strong> An app trying to tell us it can't find a directory (amongst many other strange unrecognisable messages)</p>
+  </figcaption>
+</figure>
 
 
 *Console.log()*  
