@@ -13,8 +13,6 @@ There are many strategies for resolving problems. The point is that you have a m
   - Read error message
   - Console.log()
   - Google error message
- 
-  - Isolate the bug
 4. Blocked?
     1. Ask peers on cohort slack
     2. Tag a coach
@@ -36,7 +34,7 @@ Use the console in your browser to explore the behaviour of functions you think 
 </figure>
 
 **3. Debug**  
-First, isolate what your problem is.
+Debugging is the process of **isolating** an issue and **resolving** it.
 
 *Rubber Ducky Method*  
 One great technique is the [rubber ducky method](http://www.rubberduckdebugging.com/). Explain to your rubber duck: What is the problem? What do I know? What don't I know?
@@ -59,8 +57,19 @@ If you have an error message that is more specific than "undefined is not a func
 
 It has been said that programming is being paid to be frustrated and confused. So good luck with your problem solving!
 
+**4. Blocked?**  
+If you've been problem solving for over 15 mins and you feel like you've hit a dead end:
+1. Post a message in your cohort slack group. It's likely someone else has had and resolved a similar issue, or has the perspective, understanding or experience to help you resolve your issue.
+2. If your cohort can't help you, tag a coach in slack, we'll help you out as soon as possible.
 
-++ NEED BETTER END SENTANCE ++
+**5. Reflect**  
+Which approaches worked well?   
+What did I get stuck on?   
+Why did it take so long to resolve a silly bug? (an oft asked question!). 
+How long did it take to isolate the bug?
+Did I stay calm? 
+Did my mindset help/hinder me?
+
 
 ## Prerequisites
 
