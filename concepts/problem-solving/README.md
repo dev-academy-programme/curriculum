@@ -12,7 +12,7 @@ There are many strategies for resolving problems. The point is that you have a m
   - Rubber ducky
   - Read error message
   - Console.log()
-  - Google error message
+  - Google
 4. Blocked?
     1. Ask peers on cohort slack
     2. Tag a coach
@@ -58,7 +58,7 @@ Especially as a beginner, it can be hard to even verbalize what you don’t unde
 
 For example, say you can’t figure out how to get the last element out of a javascript array. Feeling foolish, you try googling “get last thing in array javascript” - this actually returns perfectly valid results.
 
-If you have an error message that is more specific than "undefined is not a function", try searching on that too
+If you have an error message that is more specific than "undefined is not a function", try searching on that too. Make sure you search a generic part of the error message.
 
 It has been said that programming is being paid to be frustrated and confused. So good luck with your problem solving!
 
