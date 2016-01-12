@@ -10,7 +10,7 @@ Documentation is designed to cater to a huge range of skill levels. This means y
 
 Skimming over the documentation is the best way to familiarise yourself with your tool. For example, a quick glance at the functions for Javascript Arrays will save you a lot of time in the future. 
 
-If you are familiar with the capabilities of your tools you will build awesomer things and write elegant code.
+**If you are familiar with the capabilities of your tools you will build awesomer things and write elegant code.**
 
 Hot tips:
 - Look for code examples
