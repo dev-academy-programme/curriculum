@@ -10,7 +10,7 @@ Skimming over the documentation is the best way to familiarise yourself with you
 
 If you are familiar with the capabilities of your tools you will build awesomer things and write elegant code.
 
-Documentation is designed to cater to a huge range of skill levels. This means you have to develop the skills to filter out what is and isn’t important for you.
+Documentation is designed to cater to a huge range of skill levels. This means you have to develop the skills to filter out what is useful to you.
 
 Tips:
 - Look for code examples
