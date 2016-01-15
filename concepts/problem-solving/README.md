@@ -23,7 +23,7 @@ First step: don't code - you'll get tied up in syntax and minor details. Work ou
 
 **2. Try Something!**  
 It won't work (95% of the time). Great! Some code is better than no code. Now we've got some errors (bugs) to work with. We're now in the land of 'Debugging'!
-If you don't know how to approach the problem with code, google parts of your pseudocode for ideas.
+If you don't know how to approach the problem with code, google the logic of your pseudocode for ideas.
 
 Use the console in your browser to explore the behaviour of functions you think might help.
 <figure>
@@ -40,12 +40,12 @@ Debugging is the process of **isolating** an issue and **resolving** it.
 One great technique is the [rubber ducky method](http://www.rubberduckdebugging.com/). Explain to your rubber duck: What is the problem? What do I know? What don't I know?
 
 *Read the error message*  
-If you have one. Your app is trying to tell you how to fix it! Don't be intimidated by long, complex output. Scan the output for may show you exactly what's going wrong. 
+If you have one. Your app is trying to tell you how to fix it! Don't be intimidated by long, complex output. Scan the output for files, line numbers, or messages that may show you exactly what's going wrong. 
 Look for line numbers in files you recognise.
 <figure>
   <img src="./images/errormessage.png" alt="example of an error message"><br>
   <figcaption>
-    <p><strong>Figure 1:</strong> An app trying to tell us it can't find a directory (amongst many other strange unrecognisable messages)</p>
+    <p><strong>Figure 1:</strong> An app trying to tell us it can't find a directory (amongst many other strange unrecognisable messages). Perhaps the filepath we're giving it is wrong...?</p>
   </figcaption>
 </figure>
 
