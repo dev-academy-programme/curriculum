@@ -1,7 +1,7 @@
 # Test Driven Development
 
 ## Overview 
-Yay testing! Testing is industry standard - by not testing, you will accumulate [technical debt](/concepts/technical-debt).
+Yay testing! Testing is industry standard - by not testing, you will accumulate [technical debt](/concepts/technical-debt-1).
 
 Writing tests reduces costs by:
 - reducing bugs  
