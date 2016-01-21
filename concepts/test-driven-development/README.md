@@ -18,11 +18,12 @@ Writing tests reduces costs by:
 -  providing documentation
 - improving your application design.
 
-> It is common for programmers who are new to testing to find themselves in the unhappy state where the tests they write do cost more than the value those tests provide, and who therefore want to argue about the worth of tests. 
-> These are programmers who believed themselves highly productive in their former test-not lives but who have crashed into the test-first wall and stumbled to a halt. 
-> Their attempts at test-first programming result in less output, and their desire to regain productivity drives them to revert to old habits and forgo writing tests.
-> The solution to the problem of costly tests, however, is not to stop testing but instead to get better at it. 
-> Getting good value from tests requires clarity of intention and knowing what, when, and how to test. - Sandi Metz, Practical Object Oriented Design in Ruby
+> It is common for programmers who are new to testing to find themselves in the unhappy state where the tests they write do cost more than the value those tests provide, and who therefore want to argue about the worth of tests.<br>
+> These are programmers who believed themselves highly productive in their former test-not lives but who have crashed into the test-first wall and stumbled to a halt.<br>
+> Their attempts at test-first programming result in less output, and their desire to regain productivity drives them to revert to old habits and forgo writing tests.<br>
+> The solution to the problem of costly tests, however, is not to stop testing but instead to get better at it.<br>
+> Getting good value from tests requires clarity of intention and knowing what, when, and how to test.<br>
+> - Sandi Metz, Practical Object Oriented Design in Ruby
 
 
 
