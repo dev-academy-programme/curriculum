@@ -1,6 +1,6 @@
-Time cost now pays off later - Technical debt
+
 Crucial for maintainability - 
-Own sanity "backed by wall of tests" - fearless refactoring
+
 Solution quality - TDD FORCES modularity,
 Documentation - comments decay - documentation == tests and naming of variables and functions
 'Spec' - Specification - Technical Specification - show examples
@@ -11,7 +11,7 @@ Problem solving technique - Initially writing tests will be a problem, then will
 # Test Driven Development
 
 ## Overview 
-Yay testing! intro
+Yay testing! Testing is industry standard - by not testing, you are accumulating <technical debt>.
 
 Writing tests reduces costs by:
  - reducing bugs  
@@ -25,7 +25,16 @@ Writing tests reduces costs by:
 > Getting good value from tests requires clarity of intention and knowing what, when, and how to test.<br>
 > - Sandi Metz, Practical Object Oriented Design in Ruby
 
+Furthermore, tests are crucial for maintainibility.
+Having tests means that you can fearlessly refactor, because you have instant feedback if you've broken something. 
+This leads to code you can work with and improve in the long term. 
+When working with untested code, you are never completely sure that the changes you've made have not broken functionality. This leads to fear and stress when refactoring, extending and maintaining untested code bases. 
 
+Well written tests tell a story of the behaviour and functionality of your app.
+Tests and good naming of functions and variables make up the living documentation of your app.
+
+Tests improve application design by forcing you to write code, where each function has a single testable responsibility. This is why it is important that **tests are written before the code** - hence "Test Driven Development".
+Mdular code written to pass tests is cleaner, more robust and easier to maintain.
 
 ## Prerequisites 
 none
