@@ -13,10 +13,11 @@ Then watch Codr.tv's episode on Pair Programming to hear about how Pairing is us
 
 ## Environment
 The options we've found for pairing, in order of effectiveness, are:
-1. Pair in person - arrange a time to meet up somewhere
+
+1. Pair in person - arrange a time to meet up somewhere  
 2. Video call* + working collaboratively on a remote computer - Cloud9 
-3. Video call* + screen share
-**If you can't meet up in person, and you don't have adequate internet connection for options 2. or 3., you won't have adequate communication lines to pair programme**  
+3. Video call* + screen share  
+**If you can't meet up in person, and you don't have adequate internet connection for options 2. or 3., you won't have adequate communication lines to pair program**  
 Instead, you can get some of the benefits with:
 4. Phone call + slack to discuss approaches, ideas and issues.
 5. Share pseudocode and code on slack.
