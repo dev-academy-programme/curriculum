@@ -35,4 +35,4 @@ You are comfortable using the command line tool to:
 - Understand the benefits of testing
 
 ## Resources 
-none
+- [Sandi Metz - Rules for good testing](https://gist.github.com/Integralist/7944948)
