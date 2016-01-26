@@ -30,4 +30,5 @@ You are comfortable with:
 ## Further study / Stretch
 - [Kirupa's JavaScript DOM tutorial](/resources/js-dom-kirupa-TUTORIAL)
 - [Kirupa's events tutorial](/resources/js-events-series-kirupa-MULTIMODAL)
-- [What makes JS weird and awesome video series](/resources/js-intermediate-5-concepts-VIDEO)
+- [What makes JS weird and awesome (Video Series)](/resources/js-intermediate-5-concepts-VIDEO)
+- [WAT short funny discussion of Javascript weirdness (Video)](https://www.destroyallsoftware.com/talks/wat)
