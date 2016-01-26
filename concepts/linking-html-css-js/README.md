@@ -1,4 +1,4 @@
-# Linking HMTL CSS & JS 
+# Linking HMTL, CSS & JS 
 
 ## Overview 
 
