@@ -7,25 +7,13 @@
 none
 
 ## Capabilities
-You are comfortable using the command line tool to:
+You are comfortable understanding:
 
-- Find your hostname
-- Make a Directory 
-- identify your location
-- list items in a directory 
-- Navigate paths, folders, directories
-- Remove directory
-- Moving around files
-- Making empty files
-- Copying a file 
-- Moving a file 
-- Viewing a file 
-- Streaming a file 
-- Removing a file 
-- Piping and redirection
-- Wildcard matching
+- The different roles of HTML, CSS and JS
+- How HTML, CSS and JS work together in a webpage
+- Why HTML, CSS and JS are kept separate in webages
 
 ## Resources 
-- [Live demo video and explination of command line](/resources/command-line-terminal-VIDEO)
-- [Kata exercises for practicing the command line](/resources/command-line-KATA)
-- [Command line tutorial](/resources/command-line-terminal-TUTORIAL)
+- [Codecademy HTML + Javascript + CSS course](https://www.codecademy.com/courses/html-javascript-css/0/1)
+- [How HTML, CSS and JavaScript work together in web pages blog](http://webdesignfromscratch.com/html-css/how-html-css-js-work-together/)
+- [HTML, Javascript, CSS and more article](http://www.20thingsilearned.com/en-US/html/1)
