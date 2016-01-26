@@ -1,7 +1,7 @@
 # Pseudocode
 
 ## Overview
-"Pseudocode is an informal tool that you can use to plan out your algorithms. As you begin to write more complex code, it can be hard to keep an entire program in your head before coding it. 
+Pseudocode is an informal tool that you can use to plan out your algorithms. As you begin to write more complex code, it can be hard to keep an entire program in your head before coding it. 
 
 Think of pseudocode as a step-by-step verbal outline of your code that you can later transcribe into a programming language. 
 
