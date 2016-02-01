@@ -73,13 +73,8 @@ Use something like [normalize.css][] to enable sane default styles.
 
 ### Release 1: Add JavaScript
 
-How is your JavaScript going to talk to your to HTML? There are many different
-techniques and libraries to help you do it. For this challenge, we suggest using jQuery selectors $('.className), $('#id') and .on() or you can just use 'vanilla' JavaScript such as:
-[.querySelector()][], [.querySelectorAll()][], and [.addEventListener()][] for traversing the DOM.
-
-
-If you use jQuery, you will need to include the jQuery library inside a script tag inside your header inside your html file:
-"http://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"
+How is your JavaScript going to talk to your to HTML? Use 'vanilla' JavaScript such as:
+[.querySelector()][], [.querySelectorAll()][], and [.addEventListener()][] for traversing the DOM. 
 
 We need some way for JavaScript to update the board state.  Create a simple
 JavaScript function that can advance a particular player's position by one each time their key is pressed. You
@@ -107,35 +102,20 @@ key, whereas the keyup event doesn't.
 
 It'd be a boring game if you could just hold the key and go.  You want to bind
 to the `document`, like so:
-jquery:
-
-
-```javascript
-  $(document).on('keyup', someFunction)
-```
 
 vanilla javascript: 
 
 ```javascript
   document.addEventListener('keyup', someFunction, false)
 ```
-Don't forget to only run the JavaScript after the page has loaded everything, 
-we can use jQuery:
-
-```javascript
-$('document').ready(function() {
-  //run the code
-});
-```
-
-or we can do this with vanilla JavaScript:
+Don't forget to only run the JavaScript after the page has loaded everything!  
+We can do this with vanilla JavaScript:
 
 ```javascript
 document.addEventListener('DOMContentLoaded', function() {
   //run the code
 })
 ```
-
 
 
 ### Release 3: Starting and Winning States
