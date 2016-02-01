@@ -171,9 +171,9 @@ How else could you build the game, perhaps without using a table?
 
 ## Resources
 
-- [Moxilla documentation for: keyup](https://developer.mozilla.org/en-US/docs/Web/Reference/Events/keyup)
-- [Moxilla documentation for: keydown](https://developer.mozilla.org/en-US/docs/Web/Reference/Events/keydown)
-- [Moxilla documentation for: keypress](https://developer.mozilla.org/en-US/docs/Web/Reference/Events/keypress)
+- [Mozilla documentation for: keyup](https://developer.mozilla.org/en-US/docs/Web/Reference/Events/keyup)
+- [Mozilla documentation for: keydown](https://developer.mozilla.org/en-US/docs/Web/Reference/Events/keydown)
+- [Mozilla documentation for: keypress](https://developer.mozilla.org/en-US/docs/Web/Reference/Events/keypress)
 
 [.addEventListener()]: https://developer.mozilla.org/en-US/docs/Web/API/EventTarget.addEventListener
 [.querySelector()]: https://developer.mozilla.org/en-US/docs/Web/API/document.querySelector
