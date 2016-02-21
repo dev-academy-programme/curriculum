@@ -73,10 +73,3 @@ Take a look at these resources as you think about online research:
 * [Quick Tips to make your Google Searches Smarter](http://www.themuse.com/advice/quick-tips-to-make-your-google-searches-smarter)
 * [3 Things to try when Google doesn't have the answer](http://skillcrush.com/2013/05/03/3-things-to-try-when-google-doesnt-have-the-answer/)
 
-## Asking good questions 
-Learning how to ask good questions is a necessary skill for success as a developer (especially at EDA). So take a bit of time to research how to ask good questions.
-
-Here are a couple resource suggestions:
-
-- [How do I ask a good question?](http://stackoverflow.com/help/how-to-ask)
-- [Writing the Perfect Question](http://web.archive.org/web/20140709094611/http://msmvps.com/blogs/jon_skeet/archive/2010/08/29/writing-the-perfect-question.aspx) *The blog post has been removed so we are using the Internet archive to get the information*
