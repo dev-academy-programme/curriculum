@@ -24,4 +24,4 @@ You:
 ## Further study
 <!--- [Design process (DBC video)](/resources/design-process-DBC-VIDEO)-->
 - [Information Architecture (presentation)](/resources/design-information-architecture-PRESENTATION)
-- [Mobile first design discussion (Article)](/resources/design-mobile-first-discussion-ARTICLE)
+- [Mobile first design discussion (Article)](/resources/design-mobile-first-ARTICLE)
