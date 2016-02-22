@@ -19,5 +19,5 @@ You are comfortable with
 
 
 ## Further study
-- [HTML Code Academy CSS Basics](https://www.codecademy.com/learn/webhttps://www.codecademy.com/courses/web-beginner-en-TlhFi/0/1?curriculum_id=50579fb998b470000202dc8b)
+- [HTML Code Academy CSS Basics](https://www.codecademy.com/courses/web-beginner-en-TlhFi/0/1?curriculum_id=50579fb998b470000202dc8b)
 
