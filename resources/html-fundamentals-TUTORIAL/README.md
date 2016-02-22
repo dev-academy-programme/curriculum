@@ -151,7 +151,7 @@ The kinds of HTML elements available are grouped into seven overlapping categori
 
 You don't need to memorize this stuff! Just take a look at this excellent discussion about [content categories](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Content_categories) at the Mozilla Developer Network. MDN is the go-to resource for everything HTML (and CSS and JS). It's much easier to read than the standards, and is much more likely to be both up-to-date and correct when compared to most resources.
 
-If you find MDN a bit difficult, read our [Introduction to MDN](/using-mdn/) tutorial. You're going to be using MDN a lot. The sooner you get comfortable with it, the better.
+If you find MDN a bit difficult, read our [reading documentation concept](https://github.com/dev-academy-programme/curriculum/tree/master/concepts/reading-documentation). You're going to be using MDN a lot. The sooner you get comfortable with it, the better.
 
 ### Putting it all together
 
