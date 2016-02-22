@@ -22,6 +22,6 @@ You:
 - [Implement mobile first responsive design with CSS](/resources/css-implement-mobile-first-responsive-design-DEMO)
 
 ## Further study
-- [Design process (DBC video)](/resources/design-process-DBC-VIDEO)
+<!--- [Design process (DBC video)](/resources/design-process-DBC-VIDEO)-->
 - [Information Architecture (presentation)](/resources/design-information-architecture-PRESENTATION)
 - [Mobile first design discussion (Article)](/resources/design-mobile-first-discussion-ARTICLE)
