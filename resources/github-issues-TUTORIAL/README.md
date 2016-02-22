@@ -12,7 +12,7 @@ You can work with us to craft ever better curriculum and contribute to the educa
 
 Follow the [create an issue guide](https://help.github.com/articles/creating-an-issue/) to create an issue in your cohort's repo.
 
-**Please provide a hyperlink OR screenshot when submitting an issue.** For example if you were to see a typo in `github.com/dev-academy-programme/curriculum/resource/git-hub-intro` please copy that URL and past it into issues. 
+**Please provide a hyperlink OR screenshot when submitting an issue.** For example if you were to see a typo in `github.com/dev-academy-programme/curriculum/resource/git-hub-intro` please copy that URL and paste it into issues. 
 
 **Unfortunatley issues can not be made on assignment waffle tickets. If you think the assignment instructions need clarification, are incomplete, have typos or broken links, please slack us. Write us a description, hashtag it with #waffleissue and tag an EDA facilitator. Thanks!** 
 
