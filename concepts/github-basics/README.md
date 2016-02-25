@@ -21,6 +21,7 @@ You are comfortable with basic git workflow. You can:
 
 ## Resources
 - [Git beginners steps 1-9 (Interactive)](/resources/git-basics-INTERACTIVE)
+- [Git workflow overview (Tutorial)](http://rogerdudler.github.io/git-guide/)
 - [GitHub Tutorial for beginners (Video / Code)](/resources/github-basics-for-beginners-VIDEO)  
 - [Git glossary for beginners (Article)](/resources/git-basics-ARTICLE)
 - [GitHub issues (Tutorial)](/resources/github-issues-TUTORIAL)
