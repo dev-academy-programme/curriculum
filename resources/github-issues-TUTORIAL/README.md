@@ -3,7 +3,7 @@
 > Issues are a great way to keep track of tasks, enhancements, and bugs for your projects. They’re kind of like email—except they can be shared and discussed with the rest of your team. Most software projects have a bug tracker of some kind. GitHub’s tracker is called Issues, and has its own section in every repository.
 > —[https://guides.github.com/features/issues/](https://guides.github.com/features/issues/)
 
-Here at Dev Academy, one of our biggest projects is our curriculum, and we use issues to develop it.
+:deciduous_tree: Here at Dev Academy, one of our biggest projects is our curriculum, and we use issues to develop it.
 
 You can work with us to craft ever better curriculum and contribute to the education sector by creating issues for:
 
