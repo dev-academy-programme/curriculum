@@ -15,7 +15,7 @@ You are comfortable with
 
 ## Resources
 - [CSS intro (Video)](/resources/css-intro-VIDEO/README.md)
-- [CSS fundementals (Article)](/resources/css-fundamentals-ARTICLE)
+- [CSS fundamentals (Article)](/resources/css-fundamentals-ARTICLE)
 - [CSS selector game (Interactive)](http://flukeout.github.io/) - just be aware that not everything you're shown how to do here is good practice to do - for example it's bad practice to select ids in CSS...
 
 ## Further study
