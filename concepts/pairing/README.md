@@ -7,7 +7,7 @@ Together, the programmers help each other hold strong attention on the task.
 
 It is a simple but very effective tool.
 
-Watch Fiona and Semira's explanation for an explanation of how to pair programme.
+Watch Fiona and Semira's explanation for an explanation of how to pair program.
 
 Then watch Codr.tv's episode on Pair Programming to hear about how Pairing is used as a tool in the industry.
 
