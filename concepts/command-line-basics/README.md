@@ -4,15 +4,15 @@
 The command line (a.k.a terminal, shell, prompt) is another way of interacting with your computer. Instead of working with windows, toolbars, menus, and buttons, you're just interacting with text.
 
 ## Prerequisites 
-none
+None
 
 ## Capabilities
 You are comfortable using the command line tool to:
 
 - Find your hostname
 - Make a Directory 
-- identify your location
-- list items in a directory 
+- Identify your location
+- List items in a directory 
 - Navigate paths, folders, directories
 - Remove directory
 - Moving around files
