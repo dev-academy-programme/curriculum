@@ -9,9 +9,9 @@ None
 ## Capabilities
 You are comfortable with
 
-- Creating an index.html page
-- tags
-- attributes
+- Creating an `index.html` page
+- Elements (aka tags)
+- Attributes
 
 ## Resources
 - [HTML intro - how to setup an HTML index page (Video)](/resources/html-intro-index-page-tags-VIDEO)
