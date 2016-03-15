@@ -7,7 +7,7 @@ HTML describes what each part of a web page is to your browser.
 None
 
 ## Capabilities
-You are comfortable with
+You are comfortable with:
 
 - Creating an `index.html` page
 - Elements (aka tags)
