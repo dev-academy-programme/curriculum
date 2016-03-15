@@ -7,11 +7,11 @@ CSS (Cascading Style Sheets) is the language that makes the web look tino pai! (
 HTML-basics (index.html, html tags)
 
 ## Capabilities
-You are comfortable with
+You are comfortable with:
 
-- linking style sheets
-- adding simple styles (color, padding)
-- specificity
+- Linking to style sheets
+- Adding simple styles (color, padding)
+- Selector specificity
 
 ## Resources
 - [CSS intro (Video)](/resources/css-intro-VIDEO/README.md)
