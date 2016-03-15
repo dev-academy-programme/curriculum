@@ -10,14 +10,14 @@ GitHub is a version control tool that utilises Git and makes it easy for develop
 ## Capabilities
 You are comfortable with basic git workflow. You can:  
 
-  - clone a repository
-  - stage changes
-    - check change status
-    - add changes
-    - commit changes
-  - push changes
-  - pull changes
-  - create GitHub issues
+  - Clone a repository
+  - Stage changes
+    - Check change status
+    - Add changes
+    - Commit changes
+  - Push changes
+  - Pull changes
+  - Create GitHub issues
 
 ## Resources
 - [Git beginners steps 1-9 (Interactive)](/resources/git-basics-INTERACTIVE)
