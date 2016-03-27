@@ -14,11 +14,11 @@ Follow the [create an issue guide](https://help.github.com/articles/creating-an-
 
 **Please provide a hyperlink OR screenshot when submitting an issue.** For example if you were to see a typo in `github.com/dev-academy-programme/curriculum/resource/git-hub-intro` please copy that URL and paste it into issues. 
 
-**Unfortunatley issues can not be made on assignment waffle tickets. If you think the assignment instructions need clarification, are incomplete, have typos or broken links, please slack us. Write us a description, hashtag it with #waffleissue and tag an EDA facilitator. Thanks!** 
+**Unfortunately issues can not be made on assignment waffle tickets. If you think the assignment instructions need clarification, are incomplete, have typos or broken links, please slack us. Write us a description, hashtag it with #waffleissue and tag an EDA facilitator. Thanks!** 
 
 Using issues will prepare you to contribute to the wonderful open source world.
 
-Us web developers can build amazing things incredibly quickly, but only thanks to the thousands and thousands of hours of many generous open source developers. The Linux operating system you're reading this on was built in this way, and a large proportion of tools and packages you'll use in every project are open source (most of the internet is hosted on Linux machines!).
+Web developers can build amazing things incredibly quickly, but only thanks to the thousands and thousands of hours of many generous open source developers. The Linux operating system you're reading this on was built in this way, and a large proportion of tools and packages you'll use in every project are open source (most of the internet is hosted on Linux machines!).
 
 It's important to recognise the value in this, either by contributing to the open source ecosystem (or other 'public good' ecosystems) yourself, or by paying koha (gift) to the open source packages you use (this isn't yet easy to do, but we're working on it...).
 

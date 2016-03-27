@@ -1,9 +1,9 @@
 # GitHub Basics
 
 ## Overview
-GitHub is a version control tool that utilises Git and makes it easy for developers to share code.
+GitHub is a version control tool that utilises git and makes it easy for developers to share code.
 
-## Prerequisiites
+## Prerequisites
 - Command line basics
 - GitHub account
 
