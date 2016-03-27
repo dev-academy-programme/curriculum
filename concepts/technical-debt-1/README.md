@@ -18,7 +18,7 @@ You are comfortable:
 
 ## Resources
 - [Pay off your technical debt (Article)](http://blog.codinghorror.com/paying-down-your-technical-debt/)
-- [CSS Style guide](/resources/css-style-GUIDELINES)
+- [CSS Style Guide](/resources/css-style-GUIDELINES)
 - [Validate HTML](/resources/html-validation-TUTORIAL)
 - [Validate CSS](https://jigsaw.w3.org/css-validator/)
 - [Formatting & Indenting Your HTML](/resources/html-formatting-ARTICLE)  
@@ -26,7 +26,7 @@ You are comfortable:
 ## Further reading 
 - [What is technical debt (Article)](https://medium.com/@joaomilho/festina-lente-e29070811b84#.7jprx1cdr)
 - [Escaping technical debt through Agile (Article)](https://www.atlassian.com/agile/technical-debt/)
-- [Google HTML & CSS styleguide](resources/html-css-google-styleguide-ARTICLE)
+- [Google HTML & CSS styleguide](https://google.github.io/styleguide/htmlcssguide.xml)
 
 Some styleguides will differ in opinion on topics. The one thing they all agree on is the importance of consistency.  
 Google styleguide's parting words:
