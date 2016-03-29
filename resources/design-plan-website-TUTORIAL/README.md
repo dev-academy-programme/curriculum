@@ -76,11 +76,9 @@ Remember to keep the wireframe fairly simple for now. You can always add to it l
 
 [Raza DBC](http://sjafri5.github.io/)  
 [Nick's blog (EDA)](http://widdersh.in/)  
-[Eugene's blog turned into an online portfolio (EDA)](http://euglazer.github.io/)  
 [Jasmine (EDA)](http://jasminmayfield.github.io/)  
 [Oli Treadwell turned his blog into a full website and purchased his own domain name (DBC)](http://www.olitreadwell.com/posts/)  
 [Caroline (DBC) who also purchased her own domain name](http://car.oline.codes/)  
 [Andrew's ](http://omgmakeme.github.io/index.html)  
-[Fabi Castillo (DBC)](http://fab9.github.io/)  
 [Beth Makes (DBC)](http://cynaria.github.io/)  
 [Amelia (EDA)](http://amelialaundy.github.io/)  
