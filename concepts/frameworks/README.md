@@ -1,7 +1,7 @@
 # Frameworks
 
 ## Overview
-Frameworks acan be an incredibly powerful tool to get up and running, but have disadvantages too (especially for learning). Know when to use them and why.
+Frameworks can be an incredibly powerful tool to get up and running, but have disadvantages too (especially for learning). Know when to use them and why.
 
 ## Prerequisites
 
