@@ -5,7 +5,7 @@
 ## Capabilities
 You are comfortable:
 
- - Perservering with a tough problem  
+ - Persevering with a tough problem  
  - Using strategies to solve a tough problem  
  - Recognising when it's time to ask for help  
 
