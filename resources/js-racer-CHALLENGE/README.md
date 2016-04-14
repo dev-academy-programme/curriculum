@@ -71,12 +71,12 @@ Make sure you're able to 'manually' produce all the board layouts you might
 care about before you jump into the JavaScript.  Whatever way you choose, it
 should be easy for JavaScript to manipulate, so keep that in mind.
 
-Use something like [normalize.css][https://necolas.github.io/normalize.css/] to 
+Use something like [normalize.css](https://necolas.github.io/normalize.css/) to 
 enable sane default styles.
 
 ### Release 1: Add JavaScript
 
-How is your JavaScript going to talk to your to HTML? Use 'vanilla' JavaScript such as: [querySelector][https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelector]/[querySelectorAll][https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelectorAll] for traversing the DOM, and [addEventListener][https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener] for reactiving to events such as key presses.
+How is your JavaScript going to talk to your to HTML? Use 'vanilla' JavaScript such as: [querySelector](https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelector)/[querySelectorAll](https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelectorAll) for traversing the DOM, and [addEventListener](https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener) for reactiving to events such as key presses.
 
 We need some way for JavaScript to update the board state.  Create a simple JavaScript function that can advance a particular player's position by one each time their key is pressed. You give the function a player as input and it will update the underlying HTML to reflect the new position.
 
@@ -162,4 +162,5 @@ How else could you build the game, perhaps without using a table?
 - [Object literal notation](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects)
 - [Prototype-based OO](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Details_of_the_Object_Model)
 - [Jasmine](http://jasmine.github.io/2.0/introduction.html)
+
 <!-- DBC end -->
