@@ -88,8 +88,7 @@ updatePlayerPosition('player1');
 
 Store this JavaScript in a separate file and use the JavaScript console to debug it and pass in values manually.
 
-Don't forget to only run the JavaScript after the page has loaded everything!  
-We can do this with vanilla JavaScript by wrapping everything in a function
+Don't forget to only run the JavaScript after the page has loaded everything! We can do this with vanilla JavaScript by wrapping everything in a function
 that only runs after the DOM is loaded:
 
 ```javascript
@@ -110,8 +109,6 @@ key, whereas the keyup event doesn't.
 
 It'd be a boring game if you could just hold the key and go.  You want to bind
 to the `document`, like so:
-
-vanilla javascript: 
 
 ```javascript
   document.addEventListener('keyup', someFunction, false)
