@@ -79,7 +79,7 @@ Console output is all very well, but modern browsers and development environment
 ### 7. Rubber ducky
 
 <figure>
-  <img src="./images/ducky.png" alt="Rubber ducky"><br>
+  <img src="./images/ducky.jpg" alt="Rubber ducky"><br>
   <figcaption>
     <p><strong>Figure 1:</strong> Rubber ducky: yellow plastic debugging tool.</p>
   </figcaption>
