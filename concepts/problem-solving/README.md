@@ -24,7 +24,7 @@ If your code is not properly formatted before starting this process, _do that fi
 4. Read error message
 5. Improve visibility of problems using console output
 6. Debuggers: 
-  * Chrome, Firefox or Edge dev tools
+  * Chrome, Firefox, Edge or Safari dev tools
   * IDEs: WebStorm and VS Code both feature JavaScript debugging
   * Node has its own [debugger](https://nodejs.org/api/debugger.html)
 7. Rubber ducky
@@ -78,6 +78,12 @@ Console output is all very well, but modern browsers and development environment
 
 ### 7. Rubber ducky
 
+<figure>
+  <img src="./images/ducky.png" alt="Rubber ducky"><br>
+  <figcaption>
+    <p><strong>Figure 1:</strong> Rubber ducky: yellow plastic debugging tool.</p>
+  </figcaption>
+</figure>
 A surprisingly powerful technique, [rubber duck debugging](https://en.wikipedia.org/wiki/Rubber_duck_debugging) is the act of explaining your difficulty to an inanimate object (traditionally, a little yellow rubber ducky placed next to your monitor). Explain to your rubber ducky: 
  * What is the problem? 
  * What do I know? 
@@ -131,6 +137,7 @@ Sometimes it's tempting to charge ahead, steamroller-like, once you've finally m
  * How long did it take to isolate the bug?  
  * Did I stay calm?  
  * Did my mindset help or hinder me?  
+ * What were the troubleshooting strategies/patterns that helped (or could have helped) that I should consider for the future?
 
 As you become more experienced others will turn to you for assistance with their problems. This may start to happen even in later phases of EDA. With that in mind, ask yourself:
  * Who were the people I found most helpful? 
