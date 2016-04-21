@@ -81,7 +81,7 @@ Console output is all very well, but modern browsers and development environment
 <figure>
   <img src="./images/ducky.jpg" alt="Rubber ducky"><br>
   <figcaption>
-    <p><strong>Figure 1:</strong> Rubber ducky: yellow plastic debugging tool. Image: [Wade M](https://www.flickr.com/photos/wadem/). [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).</p>
+    <p><strong>Figure 1:</strong> Rubber ducky: yellow plastic debugging tool. Image: <a href="https://www.flickr.com/photos/wadem/">Wade M</a>, <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC BY-SA 2.0</a>.</p>
   </figcaption>
 </figure>
 A surprisingly powerful technique, [rubber duck debugging](https://en.wikipedia.org/wiki/Rubber_duck_debugging) is the act of explaining your difficulty to an inanimate object (traditionally, a little yellow rubber ducky placed next to your monitor). Explain to your rubber ducky: 
