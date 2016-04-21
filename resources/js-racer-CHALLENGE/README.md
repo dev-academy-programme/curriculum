@@ -63,24 +63,22 @@ Then, using CSS, you can provide styles like:
 
 Updating a player's position could be achieved by adding the `active` class to
 the appropriate `td`.  There are many other ways to achieve a sensible board
-output; this is just one suggestion.
+output; this is just one suggestion. For example, if a `div` has 
+`position: absolute` and its parent has `position: relative` then increasing its
+`left` value will move it further to the right...
 
-Make sure you're able to "manually" produce all the board layouts you might
+Make sure you're able to 'manually' produce all the board layouts you might
 care about before you jump into the JavaScript.  Whatever way you choose, it
 should be easy for JavaScript to manipulate, so keep that in mind.
 
-Use something like [normalize.css][] to enable sane default styles.
+Use something like [normalize.css](https://necolas.github.io/normalize.css/) to 
+enable sane default styles.
 
 ### Release 1: Add JavaScript
 
-How is your JavaScript going to talk to your to HTML? Use 'vanilla' JavaScript such as:
-[.querySelector()][], [.querySelectorAll()][], and [.addEventListener()][] for traversing the DOM. 
+How is your JavaScript going to talk to your to HTML? Use 'vanilla' JavaScript such as: [querySelector](https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelector)/[querySelectorAll](https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelectorAll) for traversing the DOM, and [addEventListener](https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener) for reactiving to events such as key presses.
 
-We need some way for JavaScript to update the board state.  Create a simple
-JavaScript function that can advance a particular player's position by one each time their key is pressed. You
-give
-the function a player as input and it will update the underlying HTML to
-reflect the new position.
+We need some way for JavaScript to update the board state.  Create a simple JavaScript function that can advance a particular player's position by one each time their key is pressed. You give the function a player as input and it will update the underlying HTML to reflect the new position.
 
 It could look something like:
 
@@ -88,9 +86,18 @@ It could look something like:
 updatePlayerPosition('player1');
 ```
 
-Store this JavaScript in a separate file and use the JavaScript console to
-debug it and pass in values manually.
+Store this JavaScript in a separate file and use the JavaScript console to debug it and pass in values manually.
 
+Don't forget to only run the JavaScript after the page has loaded everything! We can do this with vanilla JavaScript by wrapping everything in a function
+that only runs after the DOM is loaded:
+
+```javascript
+document.addEventListener('DOMContentLoaded', function() {
+
+  // All your code goes here... functions, variables, everything!
+
+})
+```
 
 
 ### Release 2: Binding to Key Presses
@@ -103,24 +110,13 @@ key, whereas the keyup event doesn't.
 It'd be a boring game if you could just hold the key and go.  You want to bind
 to the `document`, like so:
 
-vanilla javascript: 
-
 ```javascript
   document.addEventListener('keyup', someFunction, false)
 ```
-Don't forget to only run the JavaScript after the page has loaded everything!  
-We can do this with vanilla JavaScript:
-
-```javascript
-document.addEventListener('DOMContentLoaded', function() {
-  //run the code
-})
-```
-
 
 ### Release 3: Starting and Winning States
 
-Now that you have a functioning game, its time to add some more features. You
+Now that you have a functioning game, it's time to add some more features. You
 need to store starting and winning states so we can restart the game, declare a
 winner, and turn off the keyboard event listeners.
 
@@ -130,7 +126,7 @@ on the page.
 
 ### Release 4: Dynamic Games
 
-In release 0, we had you hard code the length of the game as table data cells. But
+In Release 0, we had you hard code the length of the game as table data cells. But
 what if the game changed based on a variable set at the top of your JavaScript
 file? like this:
 
@@ -143,7 +139,8 @@ adventurous, try to dynamically set the number of available players as well.
 
 ### Release 5: Think of Fun Additions
 
-As a thought experiment, think about what would make this game more fun? Powerups? Landmines that send you back to the start? More player control?
+As a thought experiment, think about what would make this game more fun? Powerups? 
+Landmines that send you back to the start? More player control?
 
 Is your code well-suited to adding these features or would it be difficult?
 
@@ -154,13 +151,13 @@ How else could you build the game, perhaps without using a table?
 - [Mozilla documentation for: keyup](https://developer.mozilla.org/en-US/docs/Web/Reference/Events/keyup)
 - [Mozilla documentation for: keydown](https://developer.mozilla.org/en-US/docs/Web/Reference/Events/keydown)
 - [Mozilla documentation for: keypress](https://developer.mozilla.org/en-US/docs/Web/Reference/Events/keypress)
+- [addEventListener](https://developer.mozilla.org/en-US/docs/Web/API/EventTarget.addEventListener)
+- [querySelector](https://developer.mozilla.org/en-US/docs/Web/API/document.querySelector)
+- [querySelectorAll](https://developer.mozilla.org/en-US/docs/Web/API/Document.querySelectorAll)
+- [Racer](../../../racer-1-outrageous-fortune-challenge)
+- [normalize.css](http://necolas.github.com/normalize.css/)
+- [Object literal notation](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects)
+- [Prototype-based OO](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Details_of_the_Object_Model)
+- [Jasmine](http://jasmine.github.io/2.0/introduction.html)
 
-[.addEventListener()]: https://developer.mozilla.org/en-US/docs/Web/API/EventTarget.addEventListener
-[.querySelector()]: https://developer.mozilla.org/en-US/docs/Web/API/document.querySelector
-[.querySelectorAll()]: https://developer.mozilla.org/en-US/docs/Web/API/Document.querySelectorAll
-[Racer]: ../../../racer-1-outrageous-fortune-challenge
-[normalize.css]: http://necolas.github.com/normalize.css/
-[Object literal notation]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects
-[Prototype-based OO]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Details_of_the_Object_Model
-[Jasmine]: http://jasmine.github.io/2.0/introduction.html
 <!-- DBC end -->
