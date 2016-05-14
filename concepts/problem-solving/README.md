@@ -33,7 +33,7 @@ If your code is not properly formatted before starting this process, _do that fi
 10. Still blocked? Tag a coach
 11. Reflect
 
-### 1. Pseudocode**    
+### 1. Pseudocode
 First step: don't code - you'll get tied up in syntax and minor details. Work out what you actually want to do by [pseudocoding](/concepts/pseudocode). Get up. Go for a walk. Think about it.
 
 ### 2. Try Something!  
