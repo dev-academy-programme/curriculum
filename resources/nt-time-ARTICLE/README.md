@@ -21,6 +21,6 @@ This is a large domain, ironically easy to sink too much time into - we recommen
 - [Seven Counterintuitive Ways to Be Insanely Productive](http://paidtoexist.com/counterintuitive-productivity/)
 - [The Best Tricks for Getting in the Zone at Work](http://www.themuse.com/advice/the-best-tricks-for-getting-in-the-zone-at-work)
 - [Flow](http://en.wikipedia.org/wiki/Flow_(psychology))
-- [Timebox](http://guide.agilealliance.org/guide/timebox.html)
+- [Timebox](http://guide.agilealliance.org/guide/timebox)
 
 <!-- DBC end -->
