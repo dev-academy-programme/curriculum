@@ -1,7 +1,7 @@
 # HTML Basics Part 1
 
 ## Overview
-HTML describes what each part of a web page is to your browser.
+HTML (**H**per**t**ext **M**arkup **L**anguage) is a set of symbols that gives the browser information on how to display the content on a web page.
 
 ## Prerequisites
 None
@@ -10,7 +10,7 @@ None
 You are comfortable with:
 
 - Creating an `index.html` page
-- Elements (aka tags)
+- Elements (defined by tags)
 - Attributes
 
 ## Resources
