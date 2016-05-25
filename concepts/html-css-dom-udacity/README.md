@@ -1,22 +1,24 @@
 # HTML, CSS and the DOM
 
 ## Overview
-**This concept is linked to the Udacity course assignment**
 
-HTML and CSS are markup languages and the building blocks that make up the web. This course is called "Not your Typical Intro" because it does not follow the usual pattern of other courses and tutorials that you find on the Internet. Usually HTML and CSS are taught with a focus on language syntax. But knowing syntax alone does not enable you to create a webpage from a design. You need to know where to start and how to approach the task, in other words - you need to learn how to think like a front-end developer.
+HTML and CSS are two of the fundamental languages found almost everywhere on the web. The Document Object Model provides the means to interact with objects in an HTML document. Throughout the bootcamp and your career as a web developer, you'll be parsing and manipulating the DOM. Get comfy: this is your new home!
 
 ## Prerequisites
+
 - None
 
 ## Capabilities
-You can comfortably:
-- Employ a code/test/refine strategy as you precisely and deliberately translate initial design documents into static web pages.
-- Investigate the Document Object Model (DOM) and its implications for web development.
 
-- Create and personalising your own multi-platform, responsive CSS framework for publishing professional portfolio projects to the web.
+At the completion of the Udacity _Not Your Typical Intro to Web Dev_ course, you should be comfortable:
+
+ - Turning a design document into a web page
+ - Using a custom CSS framework to style your project
+ - Experiment with Bootstrap, a popular CSS framework. You'll see Bootstrap all over the place after you graduate!
 
 ## Resources
-This concept is directly linked to the Udacity HTML and CSS assignment in your waffle board. Please view the assignment before accessing the [lesson links.](https://www.udacity.com/course/intro-to-html-and-css--ud304)
+
+This concept is directly linked to the Udacity HTML and CSS assignment in your waffle board. Please view the assignment before accessing the [lesson links](https://www.udacity.com/course/intro-to-html-and-css--ud304).
 
 ## Further Study / Stretch Resources
 
@@ -39,5 +41,3 @@ This concept is directly linked to the Udacity HTML and CSS assignment in your w
 - [What is the Dom (Article/Visual)](/resources/html-DOM-ARTICLE)
 - [Intermediate DOM Concepts (Video)](https://www.youtube.com/watch?v=Z3HGJsNLQ1E) (CSS coding, CSS Debugging and CSS Troubleshooting with Chrome Dev Tools.)
 - [Javascript, the browser and the DOM (Article/Visual)](/resources/js-dom-kirupa-TUTORIAL)
-
-
