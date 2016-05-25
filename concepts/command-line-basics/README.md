@@ -26,7 +26,7 @@ You are comfortable using the command line tool to:
 If you're happy with the above and are ready for more, find out how to:
 
 - Redirecting output to a file using `>`
-- Append to the end of a file using '>>'
+- Append to the end of a file using `>>`
 - Piping output to another command using `|`
 
 ## Resources 
