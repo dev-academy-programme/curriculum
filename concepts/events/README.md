@@ -23,7 +23,6 @@ You:
 
 ## Resources
 - [JavaScript Events Tutorial - How Web Developers Respond to User Input](https://www.youtube.com/watch?v=e57ReoUn6kM) 
-- [MDN: Creating and triggering events](https://developer.mozilla.org/en-US/docs/Web/Guide/Events/Creating_and_triggering_events)
 - [DOM on-event handlers](https://developer.mozilla.org/en-US/docs/Web/Guide/Events/Event_handlers)
 - [Working With the Keyboard](https://www.kirupa.com/html5/keyboard_events_in_javascript.htm)
 
