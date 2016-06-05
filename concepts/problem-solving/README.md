@@ -30,8 +30,9 @@ If your code is not properly formatted before starting this process, _do that fi
 7. Rubber ducky
 8. Google
 9. Blocked? Ask peers on cohort Slack
-10. Still blocked? Tag a coach
-11. Reflect
+10. Still blocked? Ask in `#code-help-desk` on Slack
+11. Still blocked? Tag a coach
+12. Reflect
 
 ### 1. Pseudocode
 First step: don't code - you'll get tied up in syntax and minor details. Work out what you actually want to do by [pseudocoding](/concepts/pseudocode). Get up. Go for a walk. Think about it.
@@ -118,7 +119,11 @@ What if the team becomes stronger when we admit we don't know something?
 
 We like to emphasise the team as a powerful tool for problem solving because we want teams in the industry to be like this, and we believe that the first step is to train each other to reach out, to depend on each other, to be greater than the sum of their parts.
 
-### 10. Still blocked? Tag a coach
+### 10. Still blocked? Ask in `#code-help-desk` on Slack
+
+When your cohort doesn't have the answer, it's time to widen the pool of people that might be able to help. [#code-help-desk](https://enspiral-dev-academy.slack.com/messages/code-help-desk) is read by teachers, but also EDA alumni and other professional programmers. Please try to be specific about your problem, and be sure that you've asked your cohort channel first.
+
+### 11. Still blocked? Tag a coach
 We recognise that there are some problems that can't be solved within the context of the team. If your cohort can't help you, or you feel a concept needs more clarification, tag a teacher in Slack. We'll try to help out as soon as possible. To be of most help, there are a few things you can do to reduce the time it takes us to understand your problem:
 
 1. _Format your code_. Did we mention that already? Maybe once or twice.
@@ -128,7 +133,7 @@ We recognise that there are some problems that can't be solved within the contex
   * What it _actually_ does
   * Any error messages you receive
 
-### 11. Reflect  
+### 12. Reflect  
 
 Sometimes it's tempting to charge ahead, steamroller-like, once you've finally managed to kick that pesky problem to the curb. We suggest, first and foremost, you're probably due a break! Stand up, relax, stretch, breathe. And consider:
  * Which approaches worked well?    
