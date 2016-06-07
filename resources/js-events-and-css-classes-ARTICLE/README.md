@@ -226,7 +226,7 @@ Immediately, what was `<div class="wombat">` becomes `<div class="wombat marsupi
 
 ```
 
-<img src="inivisible.png" alt="Invisible elements in Chrome Dev Tools">
+<img src="invisible.png" alt="Invisible elements in Chrome Dev Tools">
 
 The elements are still there, but they don't show up anymore! 
 
