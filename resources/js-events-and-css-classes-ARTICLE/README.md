@@ -244,6 +244,17 @@ Ok, so how do we get them back again?
 Just use `remove` instead of add, and you should have visible aardvarks (which are the best kind).
 
 
+### Toggling a class
+
+Sometimes we don't care if the class is on or off to begin with: we just want to add it if it's missing, and remove it if it's there! Toggling is analogous to turning the lights on and off.
+
+```javascript
+  for (var i = 0; i < aardvarks.length; i++) {
+    aardvarks[i].classList.toggle('invisible')
+  }
+```
+
+
 ### Checking for a class
 
 The `contains` function is really handy. If we want to know if an element already has a class, we can check its `classList`. Say some of our aardvarks were visible but not all. Maybe we want to add a 'bright-blue' class, but only to visible aardvarks:
