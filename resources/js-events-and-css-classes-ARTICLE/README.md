@@ -3,7 +3,9 @@
 ## Revisiting the Document Object Model
 
 In your studies so far you've probably come across the term _DOM_: the **D**ocument **O**bject **M**odel. You may recall that this is the collection of _elements_ that make up a web document organised into a tree structure. Here's an example (credit [University of Washington CSE](http://courses.cs.washington.edu/courses/cse190m/07sp/lectures/slides/08-dom.html)):
-<img src="http://courses.cs.washington.edu/courses/cse190m/07sp/lectures/slides/images/dom_tree.gif" alt="Sample DOM tree structure">
+
+<img src="dom-tree.gif" alt="Sample DOM tree structure">
+
 We can modify this structure and the elements within it using JavaScript. To do so, we follow essentially the same steps each time.
 
 ### 1. ***Find*** the element
@@ -20,7 +22,7 @@ For the purposes of the Sprint 5 and 6 assignments we're going to be using the f
 
 There are some important differences between them. Let's look at `getElementById` first:
 
-```
+```javascript
 <div id="wombat">Some text.</div>
 <script>
   var wombat = document.getElementById('wombat')
@@ -30,13 +32,13 @@ There are some important differences between them. Let's look at `getElementById
 
 Output:
 
-```
+```javascript
 <div id="wombat">Some text.</div>
 ```
 
 That's a representation of a DOM element as a string. However, take a look at this:
 
-```
+```javascript
 <div id="wombat">Some text.</div>
 <script>
   console.dir(document.getElementById('wombat'))
@@ -45,9 +47,7 @@ That's a representation of a DOM element as a string. However, take a look at th
 
 Output:
 
-```
 <img src="element.png" alt="Element viewed in Chrome Dev Tools">
-```
 
 Whoa. That's a lot of properties for a single `div`! We can't even fit them all on one screen. (If you only see the first line, try left-clicking on the arrow next to `div#wombat`.)
 
@@ -55,7 +55,7 @@ So as it turns out, using `getElementById` returns an object which has all kinds
 
 What happens if we try to use `getElementById` when the element doesn't have an id?
 
-```
+```javascript
 <div>Some text.</div>
 <script>
   var wombat = document.getElementById('wombat')
@@ -65,13 +65,13 @@ What happens if we try to use `getElementById` when the element doesn't have an 
 
 Output:
 
-```
+```javascript
 null
 ```
 
 That's not too surprising: you can't find an id that doesn't exist, after all. Ok, so what about `getElementsByClassName`? First thing to notice is that it's a _plural_: it returns an array.
 
-```
+```javascript
 <div class="aardvark">One aardvark.</div>
 <div class="aardvark">Another aardvark.</div>
 <script>
@@ -82,9 +82,7 @@ That's not too surprising: you can't find an id that doesn't exist, after all. O
 
 Output:
 
-```
 <img src="aardvarks.png" alt="Array of elements viewed in Chrome Dev Tools">
-```
 
 Note the `length` property is equal to two. The return type of `getElementsByClassName` is an array because we don't know how many elements will have that class: there could be hundreds! In HTML5 id attributes are unique, but classes can be shared by many elements. Even if there were only one element with the class `aardvark`, we'd still get an array with length 1.
 
@@ -101,7 +99,7 @@ There are many more. You can check out the list on the [MDN Event reference](htt
 
 To add an event listener to a DOM element, we find the element using the techniques above, and then call `addEventListener` on the object that is returned:
 
-```
+```javascript
 <div class="wombat">A wombat.</div>
 <script>
   var wombats = document.getElementsByClassName('wombat')
@@ -114,7 +112,7 @@ To add an event listener to a DOM element, we find the element using the techniq
 
 There's quite a bit going on here, so take some time with it. First we get _all_ the wombats, then from that array we choose the _first_ wombat in the document. That's an object with a function `addEventListener`. Take a closer look at the function call:
 
-```
+```javascript
   theFirstWombat.addEventListener('click', function (evt) {
     evt.target.style.backgroundColor = 'red'
   })
@@ -131,7 +129,7 @@ The element directly affected by an event is called the _target_. The target is 
 
 We don't have to use an anonymous function; in fact, for most non-trivial purposes, we probably shouldn't. We can define a named function and use it instead:
 
-```
+```javascript
   theFirstWombat.addEventListener('click', makeRed)
 
   function makeRed (evt) {
@@ -146,7 +144,7 @@ This is a little cleaner and can make testing and debugging easier.
 
 What if we wanted to add an event listener to all the objects of one class, even if we didn't know ahead of time how many there were going to be? Well, DOM elements are treated in JavaScript as arrays of objects, and just like any other array they can be looped through:
 
-```
+```javascript
   <div class="aardvarks">One aardvark.</div>
   <div class="aardvarks">Another aardvark.</div>
   <div class="aardvarks">A third aardvark.</div>
@@ -168,7 +166,7 @@ Here we're adding listeners to every `div.aardvark`, whereby if the user double-
 
 Sometimes once we've found an element we'd like to send it to another function to be acted on in some way. Elements are just JavaScript objects, so we can do that easily enough:
 
-```
+```javascript
   <div id="wombat">Still just a wombat.</div>
   <script>
     var wombat = document.getElementById('wombat')
