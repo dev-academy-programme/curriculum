@@ -186,3 +186,75 @@ Output:
 ```
 This element has id: wombat and has the contents: A wombat.
 ```
+
+
+## Working with classes on DOM elements
+
+In times gone by the way to manipulate classes on elements was fairly clumsy in native JavaScript, but things have gotten better in modern browsers. Now we have the [`classList`](https://developer.mozilla.org/en-US/docs/Web/API/Element/classList) property, and its functions `add`, `remove`, `item`, `toggle`, and `contains`.
+
+
+### Adding a class
+
+Say we have an element with class 'wombat' and we'd like to give it the class 'marsupial'. Remember the steps? First we find it, then we can change it.
+
+```javascript
+  <div class="wombat">Just another wombat.</div>
+  <script>
+    var wombats = document.getElementsByClassName('wombat')
+    wombats[0].classList.add('marsupial')
+  </script>
+```
+
+Notice that because there might be more than one element with the same class, `getElementsByClassName` returns an array even though we know there's only one wombat.
+
+Immediately, what was `<div class="wombat">` becomes `<div class="wombat marsupial">`. It takes on whatever CSS attributes are defined for that class, so could change quite dramatically or disappear altogether! You can use this to perform some pretty interesting tricks in the browser. For example, what if we wanted to turn all aardvarks invisible?
+
+```javascript
+  <div class="aardvark">An aardvark.</div>
+  <div class="aardvark">Yet Another Aardvark.</div>
+  <style>
+    .invisible {
+      display: none;
+    }
+  </style>
+  <script>
+    var aardvarks = document.getElementsByClassName('aardvark')
+    for (var i = 0; i < aardvarks.length; i++) {
+      aardvarks[i].classList.add('invisible')
+    }
+  </script>
+
+```
+
+<img src="inivisible.png" alt="Invisible elements in Chrome Dev Tools">
+
+The elements are still there, but they don't show up anymore! 
+
+
+### Removing a class
+
+Ok, so how do we get them back again?
+
+```javascript
+  for (var i = 0; i < aardvarks.length; i++) {
+    aardvarks[i].classList.remove('invisible')
+  }
+```
+
+Just use `remove` instead of add, and you should have visible aardvarks (which are the best kind).
+
+
+### Checking for a class
+
+The `contains` function is really handy. If we want to know if an element already has a class, we can check its `classList`. Say some of our aardvarks were visible but not all. Maybe we want to add a 'bright-blue' class, but only to visible aardvarks:
+
+```javascript
+  for (var i = 0; i < aardvarks.length; i++) {
+    if (!aardvarks[i].classList.contains('invisible')) {
+      aardvarks[i].classList.add('bright-blue')
+    }
+  }
+  
+```
+
+Notice the `!` at the start of the `if` statement. That's pronounced 'NOT', and it means to negate the meaning of whatever follows: if the function returns true it will become false. So the statement could be translated into pseudocode as: "If this aardvark is NOT invisible, turn it bright blue."
