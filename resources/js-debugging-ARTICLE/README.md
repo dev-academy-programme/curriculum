@@ -64,7 +64,7 @@ Save these files as `test.js` and `index.html` respectively. Load `index.html` i
 <figure>
   <img src="./images/debugger-console.png" alt="Opening the console"><br>
   <figcaption>
-    <p>Opening the console.</p>
+    <em>Opening the console.</em>
   </figcaption>
 </figure>
 
@@ -75,7 +75,7 @@ Now click the `Sources` tab up the top of Dev Tools.
 <figure>
   <img src="./images/debugger.png" alt="Opening the sources"><br>
   <figcaption>
-    <p>Opening the sources.</p>
+    <em>Opening the sources.</em>
   </figcaption>
 </figure>
 
@@ -89,7 +89,7 @@ Next, click on the line numbers inside the `for` loop (should be line 8). You'll
 <figure>
   <img src="./images/breakpoint.png" alt="Setting a breakpoint"><br>
   <figcaption>
-    <p>Setting a breakpoint.</p>
+    <em>Setting a breakpoint.</em>
   </figcaption>
 </figure>
 
@@ -100,7 +100,7 @@ Let's try it. Hit reload in your browser (or Cmd-R, or F5). You should see that 
 <figure>
   <img src="./images/on-breakpoint.png" alt="Stopped on a breakpoint"><br>
   <figcaption>
-    <p>Stopped on a breakpoint.</p>
+    <em>Stopped on a breakpoint.</em>
   </figcaption>
 </figure>
 
@@ -113,7 +113,7 @@ Now try _stepping_ to the next line. You can either click the down arrow button 
 <figure>
   <img src="./images/controls.png" alt="Click the down arrow to step"><br>
   <figcaption>
-    <p>Click the down arrow to step.</p>
+    <em>Click the down arrow to step.</em>
   </figcaption>
 </figure>
 
