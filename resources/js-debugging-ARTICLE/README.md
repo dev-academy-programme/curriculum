@@ -121,6 +121,13 @@ The highlight bar will jump to the `addOne` function. Start clicking that button
 
 Notice too that as you progress through the program, the page in the browser is gradually showing each line output to the document. The page is being built before your eyes! This is exactly what happens during normal JavaScript program execution, just slowed down to the point where we mere humans can see what's happening.
 
+<figure>
+  <img src="./images/debugger.gif" alt="JavaScript in action"><br>
+  <figcaption>
+    <p><em>JavaScript in action!</em></p>
+  </figcaption>
+</figure>
+
 
 ## Resources
 
