@@ -128,6 +128,8 @@ Notice too that as you progress through the program, the page in the browser is 
   </figcaption>
 </figure>
 
+Another thing you can try is to insert the statement `debugger` anywhere in your program. This has the same effect as setting a breakpoint: the program will stop at the line you specify.
+
 
 ## Resources
 
