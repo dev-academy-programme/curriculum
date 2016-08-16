@@ -22,10 +22,10 @@ This is an example of how you will be interacting with GitHub each week.
 
 - [Create a git <abbr title="repository">repo</abbr> on Github](#step-1-create-a-repo)  
 - [Clone it down](#step-3-clone-your-repo-to-workspace)  
-- [Create a branch](#step-10-create-a-branch) 
+- [Create a branch](#step-10-create-a-branch)
 - [Make changes](#step-4-create-a-new-file-in-your-directory)  
 - [Push your branch and changes to Github](#step-11-pushing-the-new-branch)
-- [Create pull request](#step-13-create-a pull-request) 
+- [Create pull request](#step-13-create-a pull-request)
 
 Another person
 - [Review pull request](#step-14-review-a-pull-request)
@@ -86,6 +86,7 @@ We've added a folder inside your home folder called "workspace". This is a commo
 - Move into your repo's folder using the `cd` command, e.g., `cd sprint-1`.
 - View the contents of the folder using `ls -al`. You should see the sprint file you just created.
 - Open the cloned file in Sublime Text 3 using the command `subl .`.
+ - **_Note_**: This tutorial refers to the Sublime editor, but we now recommend and support Atom. The cloned file can be opened in Atom using the command `atom .`.
 
 <figure>
   <img src="images/in-the-repo.png" alt="Open the repo in a text editor"><br>
@@ -394,7 +395,3 @@ I can click on the "Fix minor wording" pull request to check it out before accep
 I can comment on the request (and conduct a discussion with the person who made the pull request as well as others on my team). I can accept it and merge it in. Or I can close it without merging it.
 
 And that's all there is to forking and pull requests. You'll be using them a lot.
-
-
-
-
