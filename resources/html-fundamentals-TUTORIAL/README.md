@@ -12,7 +12,7 @@ A detailed walkthrough of HTML
 - semantic elements
 - <!DOCTYPE html>
 
-### Excercise
+### Exercise
 
 Create a folder called `html-fundamentals` in your git repo, and a file called `index.html` inside it.
 
@@ -81,7 +81,7 @@ If you leave it off, some browsers may give you weird bugs. So use it and that's
 
 Well, the truth is that this seems to change with every version of HTML, and with HTML5 it is something ridiculous. But who cares? What we really want to know is what is the minimum starting template for a *real* HTML page.
 
-Here's a good one. You can make a [gist]() of it on GitHub and use it as the basis for all your HTML pages.
+Here's a good one. You can make a [gist](https://gist.github.com/) of it on GitHub and use it as the basis for all your HTML pages.
 
 ```html
 <!DOCTYPE html>
