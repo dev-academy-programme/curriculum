@@ -15,7 +15,7 @@ If you:
 2. Git will open the automatic commit message in the default Git text editor. You don't need to add anything.  
 3. Closing the file will trigger the commit with the merge to be executed, which is what we want.  
 
-**Close the file** - If the default editor is nano, close the file with 'ctrl+x'. If the default editor is sublime, 'cmd+w'[OSX], 'ctrl+w'[Linux/Windows]
+**Close the file** - If the default editor is nano, close the file with 'ctrl+x'. If the default editor is sublime, 'cmd+w'[OSX], 'ctrl+w'[Linux/Windows]. If the default editor is Vim, press Esc, type `:q` and then hit enter.
 
 
 ## Topics Covered / Key words:
@@ -25,4 +25,3 @@ If you:
 
 ## Type:
 - Article
-
