@@ -1,7 +1,7 @@
 # HTML Basics Part 1
 
 ## Overview
-HTML (**H**per**t**ext **M**arkup **L**anguage) is a set of symbols that gives the browser information on how to display the content on a web page.
+HTML (**H**yper**t**ext **M**arkup **L**anguage) is a set of symbols that gives the browser information on how to display the content on a web page.
 
 ## Prerequisites
 None
