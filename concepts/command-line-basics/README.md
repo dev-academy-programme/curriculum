@@ -1,9 +1,9 @@
-# Command Line 
+# Command Line
 
-## Overview 
+## Overview
 The command line (a.k.a terminal, shell, prompt) is another way of interacting with your computer. Instead of working with windows, toolbars, menus, and buttons, you're just interacting with text.
 
-## Prerequisites 
+## Prerequisites
 None
 
 ## Capabilities
@@ -29,8 +29,8 @@ If you're happy with the above and are ready for more, find out how to:
 - Append to the end of a file using `>>`
 - Piping output to another command using `|`
 
-## Resources 
+## Resources
 - [Live demo video and explanation of command line](/resources/command-line-terminal-VIDEO)
-- [Kata exercises for practicing the command line](/resources/command-line-KATA)
+- [Command line command cheatsheet](/resources/command-line-CHEATSHEET)
 - [Command line tutorial](/resources/command-line-terminal-TUTORIAL)
 - [Streams, pipes, and redirects: Getting comfortable with Linux plumbing](http://www.ibm.com/developerworks/library/l-lpic1-v3-103-4/l-lpic1-v3-103-4-pdf.pdf)
