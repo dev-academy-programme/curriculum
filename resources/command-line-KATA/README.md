@@ -1,11 +1,9 @@
-# Command Line Crash Crash Course (EXTERNAL)
+# Command Line Cheat Sheet
 
-[Practical command line exercises](http://cli.learncodethehardway.org/book/) - estimated time 5 - 60 min
+## Cheat Sheet Practice
+Practice using these commands, and research the ones you haven't heard of before. (Maybe all of them)
 
-## Overview 
-Excellent walk through Kata (training) type exercises 
-
-## Topics Covered / Key Words 
+## Cheat Sheet
 
 - pwd
 - hostname
@@ -15,7 +13,7 @@ Excellent walk through Kata (training) type exercises
 - rmdir
 - pushd, popd
 - Touch
-- cp 
+- cp
 - mv
 - less, more
 - cat
@@ -30,7 +28,5 @@ Excellent walk through Kata (training) type exercises
 - export, Env:
 - exit
 
-## Type 
-- Kata 
-- Tutorial 
-
+## Type
+- Kata
