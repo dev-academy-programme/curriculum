@@ -2,7 +2,7 @@
 [developer.mozilla.org](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Sections_and_Outlines_of_an_HTML5_document)
 
 ## Overview
-Good explination of HTML5 by comparsion to HTML4
+Good explanation of HTML5 by comparison to HTML4
 
 ## Topics Covered / Key words:
 - Structure of a Document in HTML 4

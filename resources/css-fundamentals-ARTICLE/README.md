@@ -40,7 +40,7 @@ For the purposes of testing these ideas, we'll add our stylesheet right into our
 
 ### Selectors
 
-Before we can apply styling rules to our HTML elements, we need some way for our stylsheet to get hold of them. We do this by using a "selector".
+Before we can apply styling rules to our HTML elements, we need some way for our stylesheet to get hold of them. We do this by using a "selector".
 
 There are many types of selectors and combinations of selectors, but for this sprint, we'll focus on just two of them.
 
