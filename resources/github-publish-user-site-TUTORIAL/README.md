@@ -40,7 +40,7 @@ cd [username].github.io
 * Create a very basic web page.
 
 ```bash
-echo "Kia ora ao mārama (hello world!)" > index.html
+echo 'Kia ora ao mārama (hello world!)' > index.html
 ```
 
 * Stage your changes.
