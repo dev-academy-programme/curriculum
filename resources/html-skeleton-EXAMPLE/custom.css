@@ -1,0 +1,11 @@
+body {
+  padding-top: 2rem;
+}
+
+.highlight {
+  font-style: italic;
+  padding: 2rem;
+  background-color: #ccc;
+  border-radius: 0.5rem;
+  box-shadow: 0.5rem 0.5rem 0 0 #aaa;
+}
