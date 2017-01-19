@@ -15,8 +15,8 @@ In native JavaScript there are various ways of finding the element ('tag') we're
   * [`getElementById`](https://developer.mozilla.org/en-US/docs/Web/API/Document/getElementById)
   * [`getElementsByClassName`](https://developer.mozilla.org/en-US/docs/Web/API/Document/getElementsByClassName)
   * [`getElementsByName`](https://developer.mozilla.org/en-US/docs/Web/API/Document/getElementByName)
-  * [`getElementsByTagName`](https://developer.mozilla.org/en-US/docs/Web/API/Document/getElementByTagName)
-  * [`getElementsByTagNameNS`](https://developer.mozilla.org/en-US/docs/Web/API/Document/getElementByTagNameNS)
+  * [`getElementsByTagName`](https://developer.mozilla.org/en-US/docs/Web/API/Document/getElementsByTagName)
+  * [`getElementsByTagNameNS`](https://developer.mozilla.org/en-US/docs/Web/API/Document/getElementsByTagNameNS)
 
 For the purposes of the Sprint 5 and 6 assignments we're going to be using the first two. These are our ways of going out into the DOM and grabbing the element we want to manipulate or gain information about.
 
