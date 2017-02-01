@@ -22,4 +22,5 @@ Great visual references and descriptions
 - Visual
 
 ## Further reading
-[How to tell the differenece between 'old' flexbox and 'new' flexbox](https://css-tricks.com/old-flexbox-and-new-flexbox/)
+[How to tell the difference between 'old' flexbox and 'new' flexbox](https://css-tricks.com/old-flexbox-and-new-flexbox/)
+[How Flexbox works — explained with big, colorful, animated gifs](https://medium.freecodecamp.com/an-animated-guide-to-flexbox-d280cf6afc35#.pomiipfta)
