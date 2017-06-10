@@ -19,4 +19,4 @@ When you are comfortable with this concept you will:
 - have developed simple mindfulness practice
 
 ## Resources
-- [Search Inside Yourself](/resources/nt-search-inside-yourself-TEXT-VIDEO)
+- [Search Inside Yourself](/resources/nt-search-inside-yourself-TEXT)
