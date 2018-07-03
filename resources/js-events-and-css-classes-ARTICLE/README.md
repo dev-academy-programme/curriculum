@@ -184,7 +184,7 @@ Sometimes once we've found an element we'd like to send it to another function t
 Output:
 
 ```
-This element has id: wombat and has the contents: A wombat.
+This element has id: wombat and has the contents: Still just a wombat.
 ```
 
 
