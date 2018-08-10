@@ -14,7 +14,7 @@ In native JavaScript there are various ways of finding the element ('tag') we're
 
   * [`getElementById`](https://developer.mozilla.org/en-US/docs/Web/API/Document/getElementById)
   * [`getElementsByClassName`](https://developer.mozilla.org/en-US/docs/Web/API/Document/getElementsByClassName)
-  * [`getElementsByName`](https://developer.mozilla.org/en-US/docs/Web/API/Document/getElementByName)
+  * [`getElementsByName`](https://developer.mozilla.org/en-US/docs/Web/API/Document/getElementsByName)
   * [`getElementsByTagName`](https://developer.mozilla.org/en-US/docs/Web/API/Document/getElementsByTagName)
   * [`getElementsByTagNameNS`](https://developer.mozilla.org/en-US/docs/Web/API/Document/getElementsByTagNameNS)
 
